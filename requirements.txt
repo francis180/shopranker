@@ -13,7 +13,6 @@ cssselect==1.2.0
 Django==4.1.7
 executing==1.2.0
 filelock==3.9.0
-gunicorn==20.1.0
 hyperlink==21.0.0
 idna==3.4
 incremental==22.10.0
@@ -37,15 +36,6 @@ requests-file==1.5.1
 Scrapy==2.8.0
 scrapy-rotating-proxies==0.6.2
 scrapyrt==0.13.0
-service-identity==21.1.0
-six==1.16.0
-soupsieve==2.4
-sqlparse==0.4.3
-tldextract==3.4.0
-Twisted==22.10.0
-typing==3.7.4.3
-typing_extensions==4.5.0
-tzdata==2022.7
-urllib3==1.26.14
-w3lib==2.1.1
-zope.interface==5.5.2
+gunicorn==20.1.0
+python-dotenv==1.0.0
+psycopg2==2.9.7
