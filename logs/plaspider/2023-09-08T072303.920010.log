@@ -1,0 +1,18 @@
+2023-09-08 07:23:03 [scrapy] ERROR: Error while obtaining start requests
+Traceback (most recent call last):
+  File "C:\Users\Muhammad Umer\AppData\Local\Programs\Python\Python311\Lib\site-packages\scrapy\core\engine.py", line 158, in _next_request
+    request = next(self.slot.start_requests)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Outputs\Django Outputs\scraper\spiders\plaspider.py", line 51, in start_requests
+    keywords = keywords.split(',')
+               ^^^^^^^^^^^^^^
+AttributeError: 'list' object has no attribute 'split'
+2023-09-08 07:23:03 [scrapy] INFO: Closing spider (finished)
+2023-09-08 07:23:03 [scrapy] INFO: Dumping Scrapy stats:
+{'elapsed_time_seconds': 0.001001,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2023, 9, 8, 2, 23, 3, 996810),
+ 'log_count/ERROR': 1,
+ 'log_count/INFO': 8,
+ 'start_time': datetime.datetime(2023, 9, 8, 2, 23, 3, 995809)}
+2023-09-08 07:23:03 [scrapy] INFO: Spider closed (finished)

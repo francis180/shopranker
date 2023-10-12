@@ -1,0 +1,1364 @@
+2023-09-17 13:24:49 [scrapy] DEBUG: Crawled (200) <GET https://www.google.com/search?q=laptop&hl=en&gl=DK&start=0> (referer: None)
+2023-09-17 13:24:49 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=laptop&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'laptop',
+ 'position': 1,
+ 'price': '1.799,00\xa0kr.',
+ 'product_url': 'https://www.power.dk/computere-og-tablets/computere/baerbar-pc/asus-r522ma-ej1364ws-156-baerbar-pc/p-2134724/',
+ 'title': 'ASUS R522MA-EJ1364WS 15,6" BÆRBAR PC',
+ 'url': 'power.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:24:50 [scrapy] DEBUG: Crawled (200) <GET https://www.google.com/search?q=watch&hl=en&gl=DK&start=0> (referer: None)
+2023-09-17 13:24:50 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=laptop&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'laptop',
+ 'position': 2,
+ 'price': '2.499,00\xa0kr.',
+ 'product_url': 'https://www.elgiganten.dk/product/computer-kontor/computere/barbar-computer/lenovo-ideapad-3i-i3-118128-156-barbar-computer/457540',
+ 'title': 'Lenovo IdeaPad 3i i3-11/8/128 15,6" bærbar computer',
+ 'url': 'elgiganten.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:24:50 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=laptop&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'laptop',
+ 'position': 3,
+ 'price': '25.299,00\xa0kr.',
+ 'product_url': 'https://www.humac.dk/produkter/mac/macbook-pro-2023-m2-pro-162-12cpu19gpu1tb-sg',
+ 'title': 'MacBook Pro 2023 M2 Pro 16.2" 12CPU/19GPU/1TB SG',
+ 'url': 'humac.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:24:50 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=laptop&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'laptop',
+ 'position': 4,
+ 'price': '1.749,00\xa0kr.',
+ 'product_url': 'https://www.proshop.dk/Baerbar/Lenovo-ThinkPad-T470-14-i5-7200U-8-GB-RAM-256-GB-SSD-Refurbished/3121570?utm_source=google&utm_medium=cpc&utm_campaign=searchengine',
+ 'title': 'Lenovo ThinkPad T470 14" - i5-7200U - 8 GB RAM - 256 GB SSD - '
+          'Refurbished',
+ 'url': 'proshop.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:24:50 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=laptop&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'laptop',
+ 'position': 5,
+ 'price': '3.499,00\xa0kr.',
+ 'product_url': 'https://www.power.dk/computere-og-tablets/computere/baerbar-pc/samsung-galaxy-book2-256-gb-i3-silver-156-baerbar-computer/p-1344716/',
+ 'title': 'SAMSUNG GALAXY BOOK2 256 GB I3 SILVER 15,6" BÆRBAR COMPUTER',
+ 'url': 'power.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:24:50 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=laptop&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'laptop',
+ 'position': 6,
+ 'price': '2.495,00\xa0kr.',
+ 'product_url': 'https://www.greenlaptops.dk/vare/lenovo-thinkpad-t470p-141%E2%80%B3-fhd-i7-32gb-512gb-ssd-brugt-b/',
+ 'title': 'Lenovo ThinkPad T470p | 14,1′′ FHD | i7 | 32GB | 512GB SSD | Brugt '
+          'B',
+ 'url': 'greenlaptops.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:24:50 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=laptop&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'laptop',
+ 'position': 7,
+ 'price': '1.699,00\xa0kr.',
+ 'product_url': 'https://prelovedelectronics.dk/products/hp-elitebook-840-g3',
+ 'title': 'HP EliteBook 840 G3 | i5 | 8GB | 256GB SSD - Brugt - Meget god '
+          'stand | Prelovedelectronics.dk',
+ 'url': 'prelovedelectronics.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:24:50 [scrapy] DEBUG: Redirecting (302) to <GET https://www.google.com/webhp?hl=en&gl=DK&start=0> from <GET https://www.google.com/search?q=&hl=en&gl=DK&start=0>
+2023-09-17 13:24:50 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=laptop&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'laptop',
+ 'position': 8,
+ 'price': '2.507,99\xa0kr.',
+ 'product_url': 'https://www.refurbed.dk/p/lenovo-tp-x1-yoga-g1-6300u/?co=dk&utm_cluster=gradeC&utm_content=lenovo-tp-x1-yoga-g1-6300u&utm_group=lenovo-tp-x1-yoga-g1-6300u',
+ 'title': 'Lenovo ThinkPad X1 Yoga G1 | i5-6300U | 14"',
+ 'url': 'refurbed.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:24:50 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=laptop&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'laptop',
+ 'position': 9,
+ 'price': '3.999,00\xa0kr.',
+ 'product_url': 'https://www.elgiganten.dk/product/computer-kontor/computere/barbar-computer/hp-laptop-15s-r7-516512-156-barbar-computer/618575',
+ 'title': 'HP Laptop 15s R7-5/16/512 15,6" bærbar computer',
+ 'url': 'elgiganten.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:24:50 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=laptop&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'laptop',
+ 'position': 10,
+ 'price': '1.650,00\xa0kr.',
+ 'product_url': 'https://www.greencircleit.dk/product/dell-latitude-e7470-baerbar-i5-6300u-14-fhd/',
+ 'title': 'Dell Latitude E7470 bærbar i5-6300U, 14" FHD',
+ 'url': 'greencircleit.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:24:50 [scrapy] DEBUG: Crawled (200) <GET https://www.google.com/search?q=macbook&hl=en&gl=DK&start=0> (referer: None)
+2023-09-17 13:24:51 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=laptop&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'laptop',
+ 'position': 11,
+ 'price': '2.222,00\xa0kr.',
+ 'product_url': 'https://www.power.dk/computere-og-tablets/computere/baerbar-pc/acer-aspire-3-a314-22-r4jq-14-baerbar-pc/p-1886162/',
+ 'title': 'ACER ASPIRE 3 A314-22-R4JQ 14" BÆRBAR PC',
+ 'url': 'power.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:24:51 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=laptop&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'laptop',
+ 'position': 12,
+ 'price': '5.499,00\xa0kr.',
+ 'product_url': 'https://www.dustinhome.dk/product/5011301628/thinkbook-15-g4?ssel=true',
+ 'title': 'Lenovo Thinkbook 15 G4 Core I7 16gb 512gb Ssd 15.6"',
+ 'url': 'dustinhome.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:24:51 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=laptop&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'laptop',
+ 'position': 13,
+ 'price': '2.495,00\xa0kr.',
+ 'product_url': 'https://www.fleshop.dk/product/hp-elitebook-840-g5-141%E2%80%B3-i5-8gb-256gb-ssd-brugt-a/',
+ 'title': 'HP EliteBook 840 G5 | 14,1′′ | i5 | 16GB | 256GB SSD | Brugt A',
+ 'url': 'fleshop.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:24:51 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=laptop&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'laptop',
+ 'position': 14,
+ 'price': '895,00\xa0kr.',
+ 'product_url': 'https://elrecycling.dk/shop/9-lenovo/82-lenovo-thinkpad-x250/',
+ 'title': 'Lenovo Thinkpad X250 | Køb brugt Lenovo computer med 2 års garanti '
+          'hos El Recycling',
+ 'url': 'elrecycling.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:24:51 [scrapy] DEBUG: Crawled (200) <GET https://www.google.com/search?q=ps5&hl=en&gl=DK&start=0> (referer: None)
+2023-09-17 13:24:51 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=laptop&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'laptop',
+ 'position': 15,
+ 'price': '3.777,00\xa0kr.',
+ 'product_url': 'https://www.power.dk/computere-og-tablets/computere/baerbar-pc/lenovo-ideapad-3-15itl6-i5-512-gb-156-baerbar-pc/p-1896485/',
+ 'title': 'LENOVO IDEAPAD 3 15ITL6 I5 512 GB 15,6" BÆRBAR PC',
+ 'url': 'power.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:24:51 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=laptop&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'laptop',
+ 'position': 16,
+ 'price': '5.857,00\xa0kr.',
+ 'product_url': 'https://www.proshop.dk/Baerbar/Samsung-Galaxy-Book3-Silver-156-i3-1315U-EVO-8GB-LPDDR4X-256GB/3135115?utm_source=google&utm_medium=cpc&utm_campaign=searchengine',
+ 'title': 'Samsung Galaxy Book3 (Silver) - 15.6" - i3-1315U EVO - 8GB LPDDR4X '
+          '/ 256GB',
+ 'url': 'proshop.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:24:51 [scrapy] DEBUG: Crawled (200) <GET https://www.google.com/search?q=earbuds&hl=en&gl=DK&start=0> (referer: None)
+2023-09-17 13:24:51 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=laptop&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'laptop',
+ 'position': 17,
+ 'price': '3.499,00\xa0kr.',
+ 'product_url': 'https://www.elgiganten.dk/product/computer-kontor/computere/barbar-computer/asus-x415-i5-118512-14-barbar-computer/617387',
+ 'title': 'Asus X415 i5-11/8/512 14" bærbar computer',
+ 'url': 'elgiganten.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:24:51 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=laptop&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'laptop',
+ 'position': 18,
+ 'price': '2.657,00\xa0kr.',
+ 'product_url': 'https://www.power.dk/computere-og-tablets/computere/baerbar-pc/acer-aspire-1-a115-32-c5z2-156-baerbar-pc/p-1954726/',
+ 'title': 'ACER ASPIRE 1 A115-32-C5Z2 15,6" BÆRBAR PC',
+ 'url': 'power.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:24:52 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=laptop&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'laptop',
+ 'position': 19,
+ 'price': '3.999,00\xa0kr.',
+ 'product_url': 'https://www.elgiganten.dk/product/computer-kontor/computere/barbar-computer/acer-aspire-5-i58512mx450-156-barbar-computer/393361',
+ 'title': 'Acer Aspire 5 i5/8/512/MX450 15.6" bærbar computer',
+ 'url': 'elgiganten.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:24:52 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=laptop&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'laptop',
+ 'position': 20,
+ 'price': '2.423,99\xa0kr.',
+ 'product_url': 'https://www.refurbed.dk/p/dell-latitude-14-rggd5414/?co=dk&utm_cluster=gradeC&utm_content=dell-latitude-14-rggd5414&utm_group=dell-latitude-14-rggd5414',
+ 'title': 'Dell Latitude 14 Rugged 5414 | i5-6300U | 14"',
+ 'url': 'refurbed.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:24:52 [scrapy] DEBUG: Crawled (200) <GET https://www.google.com/webhp?hl=en&gl=DK&start=0> (referer: None)
+2023-09-17 13:24:52 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=laptop&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'laptop',
+ 'position': 21,
+ 'price': '2.492,00\xa0kr.',
+ 'product_url': 'https://www.power.dk/computere-og-tablets/computere/baerbar-pc/lenovo-ideapad-slim-3-chromebook-14m868-128-gb-14-baerbar-pc/p-2290198/',
+ 'title': 'LENOVO IDEAPAD SLIM 3 CHROMEBOOK 14M868 128 GB 14" BÆRBAR PC',
+ 'url': 'power.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:24:52 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=laptop&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'laptop',
+ 'position': 22,
+ 'price': '1.779,00\xa0kr.',
+ 'product_url': 'https://www.elgiganten.dk/product/computer-kontor/computere/barbar-computer/lenovo-ideapad-1-cel4128-14-barbar-computer/455539',
+ 'title': 'Lenovo IdeaPad 1 Cel/4/128 14" bærbar computer',
+ 'url': 'elgiganten.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:24:52 [scrapy] DEBUG: Crawled (200) <GET https://www.google.com/search?q=apple&hl=en&gl=DK&start=0> (referer: None)
+2023-09-17 13:24:52 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=laptop&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'laptop',
+ 'position': 23,
+ 'price': '1.709,00\xa0kr.',
+ 'product_url': 'https://www.power.dk/computere-og-tablets/monitorer-og-skaerme/pc-skaerme/lenovo-l15-156-full-hd-baerbar-skaerm/p-1217652/',
+ 'title': 'LENOVO L15 15,6" FULL HD BÆRBAR SKÆRM',
+ 'url': 'power.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:24:52 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=laptop&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'laptop',
+ 'position': 24,
+ 'price': '10.499,00\xa0kr.',
+ 'product_url': 'https://www.humac.dk/produkter/mac/macbook-air-2022-m2-136-8c-cpu-8gb-256gb-stl',
+ 'title': 'MacBook Air 2022 M2 13.6" 8C GPU, 8GB, 256GB STL',
+ 'url': 'humac.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:24:52 [scrapy] DEBUG: Crawled (200) <GET https://www.google.com/search?q=iphone+14&hl=en&gl=DK&start=0> (referer: None)
+2023-09-17 13:24:52 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=laptop&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'laptop',
+ 'position': 25,
+ 'price': '2.790,00\xa0kr.',
+ 'product_url': 'https://remarkable.com/store/remarkable-2?region_id=000208',
+ 'title': 'reMarkable 2 - Paper tablet - 10.3" digital notebook - Convert '
+          "handwritten notes - 2 weeks of battery life - World's thinnest "
+          'tablet',
+ 'url': 'remarkable.com',
+ 'user_id': 'admin'}
+2023-09-17 13:24:53 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=laptop&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'laptop',
+ 'position': 26,
+ 'price': '2.386,99\xa0kr.',
+ 'product_url': 'https://www.refurbed.dk/p/microsoft-surface-pro-2017-i5-73/3935c/?co=dk&utm_cluster=gradeC&utm_content=microsoft-surface-pro-2017-i5-73-3935c&utm_group=microsoft-surface-pro-2017-i5-73',
+ 'title': 'Microsoft Surface Pro 5 (2017) | i5-7300U | 12.3" | 8 GB | 128 GB '
+          'SSD | Win 10 Pro',
+ 'url': 'refurbed.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:24:53 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=laptop&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'laptop',
+ 'position': 27,
+ 'price': '3.099,00\xa0kr.',
+ 'product_url': 'https://www.power.dk/computere-og-tablets/computere/baerbar-pc/hp-17-cn0403no-173-baerbar-pc/p-2240768/',
+ 'title': 'HP 17-CN0403NO 17,3" BÆRBAR PC',
+ 'url': 'power.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:24:53 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=laptop&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'laptop',
+ 'position': 28,
+ 'price': '1.579,00\xa0kr.',
+ 'product_url': 'https://www.proshop.dk/Baerbar/Lenovo-ThinkPad-T470-14-Core-i5-6200U-8-GB-RAM-256-GB-SSD-Nordic-Refurbished/3121590?utm_source=google&utm_medium=cpc&utm_campaign=searchengine',
+ 'title': 'Lenovo ThinkPad T470 - 14" - Core i5 6200U - 8 GB RAM - 256 GB SSD '
+          '- Nordic - Refurbished',
+ 'url': 'proshop.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:24:53 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=laptop&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'laptop',
+ 'position': 29,
+ 'price': '1.999,00\xa0kr.',
+ 'product_url': 'https://www.power.dk/computere-og-tablets/computere/baerbar-pc/hp-chromebook-14a-na0406no-14-baerbar-pc/p-1817676/',
+ 'title': 'HP CHROMEBOOK 14A-NA0406NO 14" BÆRBAR PC',
+ 'url': 'power.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:24:53 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=laptop&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'laptop',
+ 'position': 30,
+ 'price': None,
+ 'product_url': None,
+ 'title': None,
+ 'url': '',
+ 'user_id': 'admin'}
+2023-09-17 13:24:53 [scrapy] DEBUG: Crawled (200) <GET https://www.google.com/search?q=iphone+13&hl=en&gl=DK&start=0> (referer: None)
+2023-09-17 13:24:53 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=watch&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'watch',
+ 'position': 1,
+ 'price': '1.169,00\xa0kr.',
+ 'product_url': 'https://watchmen.dk/hugo-boss-hero-sport-chrono-blue-hb1513755',
+ 'title': 'HUGO BOSS Hero Sport Chrono Blue HB1513755',
+ 'url': 'watchmen.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:24:53 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=watch&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'watch',
+ 'position': 2,
+ 'price': '279,00\xa0kr.',
+ 'product_url': 'https://www.mytrendyphone.dk/shop/vandtaet-smartwatch-hjertemaler-q26-269348p.html',
+ 'title': 'Vandtæt Smartwatch med Pulsmåler Q26PRO - Sort',
+ 'url': 'mytrendyphone.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:24:53 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=watch&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'watch',
+ 'position': 3,
+ 'price': '395,00\xa0kr.',
+ 'product_url': 'https://www.ditur.dk/sekonda-1640',
+ 'title': 'Sekonda 1640 - Man - 40 mm - Analog - Kvarts - Mineralglas',
+ 'url': 'ditur.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:24:54 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=macbook&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'macbook',
+ 'position': 1,
+ 'price': '7.649,00\xa0kr.',
+ 'product_url': 'https://www.humac.dk/produkter/mac/macbook-air-2020-m1-133-8c-cpu7c-gpu-256gb-si',
+ 'title': 'MacBook Air 2020 M1 13.3" 8C CPU/7C GPU 256GB SI',
+ 'url': 'humac.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:24:54 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=macbook&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'macbook',
+ 'position': 2,
+ 'price': '7.488,00\xa0kr.',
+ 'product_url': 'https://www.power.dk/computere-og-tablets/computere/baerbar-pc/apple-macbook-air-2020-m1-mgn63dka-13-256-gb-space-grey/p-1133484/',
+ 'title': 'APPLE MACBOOK AIR 2020 M1 MGN63DK/A 13" 256 GB SPACE GREY',
+ 'url': 'power.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:24:54 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=macbook&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'macbook',
+ 'position': 3,
+ 'price': '28.899,00\xa0kr.',
+ 'product_url': 'https://www.humac.dk/produkter/mac/macbook-pro-2023-m2-pro-162-12cpu19gpu1tb-sg-premium-konfigureret-ud-fra-mnw93dka',
+ 'title': 'MacBook Pro 2023 M2 Pro 16.2" 12CPU/19GPU/1TB SG',
+ 'url': 'humac.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:24:54 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=macbook&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'macbook',
+ 'position': 4,
+ 'price': '7.488,00\xa0kr.',
+ 'product_url': 'https://www.elgiganten.dk/product/computer-kontor/computere/barbar-computer/macbook-air-13-m18256-2020-space-grey/254420',
+ 'title': 'MacBook Air 13 M1/8/256 2020 (space grey)',
+ 'url': 'elgiganten.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:24:54 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=macbook&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'macbook',
+ 'position': 5,
+ 'price': '6.090,99\xa0kr.',
+ 'product_url': 'https://www.refurbed.dk/p/macbook-pro-2019-133-tb/?co=dk&utm_cluster=gradeC&utm_content=macbook-pro-2019-133-tb&utm_group=macbook-pro-2019-133-tb',
+ 'title': 'Apple MacBook Pro 2019 | 13.3" | Touch Bar',
+ 'url': 'refurbed.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:24:54 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=macbook&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'macbook',
+ 'position': 6,
+ 'price': '12.499,00\xa0kr.',
+ 'product_url': 'https://www.humac.dk/produkter/mac/macbook-air-2023-m2-15-8cpu-10gpu-256gb-sg',
+ 'title': 'MacBook Air 2023 M2 15" 8CPU 10GPU 256GB SG',
+ 'url': 'humac.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:24:54 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=macbook&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'macbook',
+ 'position': 7,
+ 'price': '10.499,00\xa0kr.',
+ 'product_url': 'https://www.humac.dk/produkter/mac/macbook-air-2022-m2-136-8c-cpu-8gb-256gb-stl',
+ 'title': 'MacBook Air 2022 M2 13.6" 8C GPU, 8GB, 256GB STL',
+ 'url': 'humac.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:24:55 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=macbook&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'macbook',
+ 'position': 8,
+ 'price': '9.443,00\xa0kr.',
+ 'product_url': 'https://www.power.dk/computere-og-tablets/computere/baerbar-pc/apple-macbook-air-2022-mlxy3dka-13-256-gb-soelv/p-1535751/',
+ 'title': 'APPLE MACBOOK AIR 2022 MLXY3DK/A 13" 256 GB SØLV',
+ 'url': 'power.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:24:55 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=macbook&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'macbook',
+ 'position': 9,
+ 'price': '4.407,99\xa0kr.',
+ 'product_url': 'https://www.refurbed.dk/p/apple-macbook-pro-2017-13-3-touc/?co=dk&utm_cluster=gradeC&utm_content=apple-macbook-pro-2017-13-3-touc&utm_group=apple-macbook-pro-2017-13-3-touc',
+ 'title': 'Apple MacBook Pro 2017 | 13.3" | Touch Bar',
+ 'url': 'refurbed.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:24:55 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=macbook&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'macbook',
+ 'position': 10,
+ 'price': '9.999,00\xa0kr.',
+ 'product_url': 'https://www.bilka.dk/produkter/apple-macbook-pro-m2-13-3-256-gb-silver/200153771/',
+ 'title': 'Apple Macbook Pro M2 13,3" 256 GB Silver',
+ 'url': 'bilka.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:24:55 [scrapy] DEBUG: Crawled (200) <GET https://www.google.com/search?q=phone&hl=en&gl=DK&start=0> (referer: None)
+2023-09-17 13:24:55 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=macbook&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'macbook',
+ 'position': 11,
+ 'price': '3.499,00\xa0kr.',
+ 'product_url': 'https://www.power.dk/computere-og-tablets/computere/repower-baerbar-pc/repower-macbook-air-133-128-gb-silver/p-1221620/',
+ 'title': 'REPOWER MACBOOK AIR 13,3" 128 GB SILVER',
+ 'url': 'power.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:24:55 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=macbook&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'macbook',
+ 'position': 12,
+ 'price': '12.499,00\xa0kr.',
+ 'product_url': 'https://www.humac.dk/produkter/mac/macbook-pro-2022-m2-133-8c-cpu-8gb-256gb-sl',
+ 'title': 'MacBook Pro 2022 M2 13.3" 8C GPU, 8GB, 256GB SL',
+ 'url': 'humac.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:24:55 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=macbook&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'macbook',
+ 'position': 13,
+ 'price': '23.499,00\xa0kr.',
+ 'product_url': 'https://www.humac.dk/produkter/mac/macbook-pro-2023-m2-pro-142-12cpu19gpu1tb-sg',
+ 'title': 'MacBook Pro 2023 M2 Pro 14.2" 12CPU/19GPU/1TB SG',
+ 'url': 'humac.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:24:55 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=macbook&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'macbook',
+ 'position': 14,
+ 'price': '9.443,00\xa0kr.',
+ 'product_url': 'https://www.power.dk/computere-og-tablets/computere/baerbar-pc/apple-macbook-air-2022-mly13dka-13-256-gb-stjerneskaer/p-1535752/',
+ 'title': 'APPLE MACBOOK AIR 2022 MLY13DK/A 13" 256 GB STJERNESKÆR',
+ 'url': 'power.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:24:56 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=macbook&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'macbook',
+ 'position': 15,
+ 'price': '7.488,00\xa0kr.',
+ 'product_url': 'https://www.power.dk/computere-og-tablets/computere/baerbar-pc/apple-macbook-air-2020-m1-mgnd3dka-13-256-gb-guld/p-1133485/',
+ 'title': 'APPLE MACBOOK AIR 2020 M1 MGND3DK/A 13" 256 GB GULD',
+ 'url': 'power.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:24:56 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=macbook&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'macbook',
+ 'position': 16,
+ 'price': '6.616,99\xa0kr.',
+ 'product_url': 'https://www.refurbed.dk/p/apple-macbook-pro-2020-133-tb/?co=dk&utm_cluster=gradeC&utm_content=apple-macbook-pro-2020-133-tb&utm_group=apple-macbook-pro-2020-133-tb',
+ 'title': '>> Apple MacBook Pro 2020 | 13.3" | Touch Bar <<',
+ 'url': 'refurbed.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:24:56 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=macbook&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'macbook',
+ 'position': 17,
+ 'price': '9.489,00\xa0kr.',
+ 'product_url': 'https://www.elgiganten.dk/product/computer-kontor/computere/barbar-computer/macbook-air-m2-2022-8256-gb-barbar-computer-starlight/474935',
+ 'title': 'MacBook Air M2 2022 8/256 GB bærbar computer (Starlight)',
+ 'url': 'elgiganten.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:24:56 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=macbook&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'macbook',
+ 'position': 18,
+ 'price': '4.393,99\xa0kr.',
+ 'product_url': 'https://www.refurbed.dk/p/apple-macbook-pro-2017-i5-13/?co=dk&utm_cluster=gradeB&utm_content=apple-macbook-pro-2017-i5-13&utm_group=apple-macbook-pro-2017-i5-13',
+ 'title': 'Apple MacBook Pro 2017 | 13.3"',
+ 'url': 'refurbed.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:24:56 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=macbook&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'macbook',
+ 'position': 19,
+ 'price': '3.325,99\xa0kr.',
+ 'product_url': 'https://www.refurbed.dk/p/apple-macbook-air-2017-i-13-3/?co=dk&utm_cluster=gradeC&utm_content=apple-macbook-air-2017-i-13-3&utm_group=apple-macbook-air-2017-i-13-3',
+ 'title': 'Apple MacBook Air 2017 | 13.3"',
+ 'url': 'refurbed.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:24:56 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=macbook&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'macbook',
+ 'position': 20,
+ 'price': '10.499,00\xa0kr.',
+ 'product_url': 'https://www.elgiganten.dk/product/computer-kontor/computere/barbar-computer/macbook-air-m2-2022-8256-gb-barbar-computer-midnight/474934',
+ 'title': 'MacBook Air M2 2022 8/256 GB bærbar computer (Midnight)',
+ 'url': 'elgiganten.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:24:56 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=macbook&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'macbook',
+ 'position': 21,
+ 'price': '10.499,00\xa0kr.',
+ 'product_url': 'https://www.humac.dk/produkter/mac/macbook-air-2022-m2-136-8c-cpu-8gb-256gb-mdn',
+ 'title': 'MacBook Air 2022 M2 13.6" 8C GPU, 8GB, 256GB MDN',
+ 'url': 'humac.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:24:57 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=macbook&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'macbook',
+ 'position': 22,
+ 'price': '5.522,99\xa0kr.',
+ 'product_url': 'https://www.refurbed.dk/p/apple-macbook-air-2020/?co=dk&utm_cluster=gradeB&utm_content=apple-macbook-air-2020&utm_group=apple-macbook-air-2020',
+ 'title': '>> Apple MacBook Air 2020 | 13.3" <<',
+ 'url': 'refurbed.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:24:57 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=macbook&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'macbook',
+ 'position': 23,
+ 'price': '7.488,00\xa0kr.',
+ 'product_url': 'https://www.power.dk/computere-og-tablets/computere/baerbar-pc/apple-macbook-air-2020-m1-mgn93dka-13-256-gb-soelv/p-1133486/',
+ 'title': 'APPLE MACBOOK AIR 2020 M1 MGN93DK/A 13" 256 GB SØLV',
+ 'url': 'power.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:24:57 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=macbook&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'macbook',
+ 'position': 24,
+ 'price': '7.649,00\xa0kr.',
+ 'product_url': 'https://www.bilka.dk/produkter/apple-macbook-air-m1-13-256-gb-space-grey/100558134/',
+ 'title': 'Apple Macbook Air M1 13" 256 GB Space Grey',
+ 'url': 'bilka.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:24:57 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=macbook&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'macbook',
+ 'position': 25,
+ 'price': '3.249,99\xa0kr.',
+ 'product_url': 'https://www.refurbed.dk/p/apple-macbook-pro-2015-13-3/?co=dk&utm_cluster=gradeC&utm_content=apple-macbook-pro-2015-13-3&utm_group=apple-macbook-pro-2015-13-3',
+ 'title': 'Apple MacBook Pro 2015 | 13.3"',
+ 'url': 'refurbed.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:24:57 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=macbook&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'macbook',
+ 'position': 26,
+ 'price': '5.257,99\xa0kr.',
+ 'product_url': 'https://www.refurbed.dk/p/apple-macbook-pro-2018-13-3-touc/?co=dk&utm_cluster=gradeC&utm_content=apple-macbook-pro-2018-13-3-touc&utm_group=apple-macbook-pro-2018-13-3-touc',
+ 'title': 'Apple MacBook Pro 2018 | 13.3" | Touch Bar',
+ 'url': 'refurbed.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:24:57 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=macbook&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'macbook',
+ 'position': 27,
+ 'price': '10.499,00\xa0kr.',
+ 'product_url': 'https://www.humac.dk/produkter/mac/macbook-air-2022-m2-136-8c-cpu-8gb-256gb-sg',
+ 'title': 'MacBook Air 2022 M2 13.6" 8C GPU, 8GB, 256GB SG',
+ 'url': 'humac.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:24:58 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=macbook&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'macbook',
+ 'position': 28,
+ 'price': '9.443,00\xa0kr.',
+ 'product_url': 'https://www.power.dk/computere-og-tablets/computere/baerbar-pc/apple-macbook-air-2022-mlxw3dka-13-256-gb-space-grey/p-1535750/',
+ 'title': 'APPLE MACBOOK AIR 2022 MLXW3DK/A 13" 256 GB SPACE GREY',
+ 'url': 'power.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:24:58 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=macbook&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'macbook',
+ 'position': 29,
+ 'price': '11.149,00\xa0kr.',
+ 'product_url': 'https://www.power.dk/computere-og-tablets/computere/baerbar-pc/apple-macbook-air-2023-mqkw3dka-15-256-gb-midnat/p-2279435/',
+ 'title': 'APPLE MACBOOK AIR 2023 MQKW3DK/A 15" 256 GB MIDNAT',
+ 'url': 'power.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:24:58 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=macbook&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'macbook',
+ 'position': 30,
+ 'price': None,
+ 'product_url': None,
+ 'title': None,
+ 'url': '',
+ 'user_id': 'admin'}
+2023-09-17 13:24:58 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=ps5&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'ps5',
+ 'position': 1,
+ 'price': '3.690,00\xa0kr.',
+ 'product_url': 'https://www.proshop.dk/Spillekonsol/Sony-PlayStation-5-Digital-Edition-Nordic/3033825?utm_source=google&utm_medium=cpc&utm_campaign=searchengine',
+ 'title': 'Sony PlayStation 5 - Digital Edition (Nordic)',
+ 'url': 'proshop.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:24:58 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=ps5&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'ps5',
+ 'position': 2,
+ 'price': '4.199,00\xa0kr.',
+ 'product_url': 'https://www.elgiganten.dk/product/gaming/spillekonsol-tilbehor/playstation/playstation-spillekonsol/playstation-5-cod-mw2-pakke/619645',
+ 'title': 'PlayStation 5 + COD MW2-pakke',
+ 'url': 'elgiganten.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:24:58 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=ps5&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'ps5',
+ 'position': 3,
+ 'price': '3.599,00\xa0kr.',
+ 'product_url': 'https://www.callme.dk/shop/playstation/sony-playstation-5-23-bundle-med-abonnement/#/white/0-gb',
+ 'title': 'Sony PlayStation 5 med abonnement. Mindstepris: 4332.00 kr. (med '
+          'abonnement)',
+ 'url': 'callme.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:24:59 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=ps5&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'ps5',
+ 'position': 4,
+ 'price': '3.879,00\xa0kr.',
+ 'product_url': 'https://www.elgiganten.dk/product/gaming/spillekonsol-tilbehor/playstation/playstation-spillekonsol/playstation-5-digital-edition-2022/533977',
+ 'title': 'PlayStation 5 Digital Edition (2022)',
+ 'url': 'elgiganten.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:24:59 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=ps5&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'ps5',
+ 'position': 5,
+ 'price': '3.879,00\xa0kr.',
+ 'product_url': 'https://www.power.dk/gaming-og-underholdning/playstation/playstation-konsoller/playstation-5-digital-edition/p-1840112/',
+ 'title': 'PLAYSTATION 5 DIGITAL EDITION',
+ 'url': 'power.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:24:59 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=ps5&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'ps5',
+ 'position': 6,
+ 'price': '4.991,00\xa0kr.',
+ 'product_url': 'https://www.elgiganten.dk/product/gaming/spillekonsol-tilbehor/playstation/playstation-spillekonsol/playstation-5-2x-dualsense-controller-pakke/581993',
+ 'title': 'PlayStation 5 + 2x DualSense controller-pakke',
+ 'url': 'elgiganten.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:24:59 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=ps5&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'ps5',
+ 'position': 7,
+ 'price': '4.199,00\xa0kr.',
+ 'product_url': 'https://www.power.dk/gaming-og-underholdning/playstation/playstation-konsoller/playstation-5/p-1840111/',
+ 'title': 'PLAYSTATION 5',
+ 'url': 'power.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:24:59 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=ps5&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'ps5',
+ 'position': 8,
+ 'price': '4.199,00\xa0kr.',
+ 'product_url': 'https://www.elgiganten.dk/product/gaming/spillekonsol-tilbehor/playstation/playstation-spillekonsol/playstation-5-2022/533978',
+ 'title': 'PlayStation 5 (2022)',
+ 'url': 'elgiganten.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:24:59 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=ps5&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'ps5',
+ 'position': 9,
+ 'price': '5.190,00\xa0kr.',
+ 'product_url': 'https://www.power.dk/gaming-og-underholdning/playstation/playstation-konsoller/playstation-5-konsol-marvels-spider-man-2-limited-edition-bundle/p-2525860/',
+ 'title': "PLAYSTATION 5 KONSOL - MARVEL'S SPIDER-MAN 2 LIMITED EDITION BUNDLE",
+ 'url': 'power.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:25:00 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=earbuds&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'earbuds',
+ 'position': 1,
+ 'price': '499,00\xa0kr.',
+ 'product_url': 'https://www.jabra.dk/bluetooth-headsets/jabra-elite-3/buy##100-91410700-98',
+ 'title': 'Jabra Elite 3 - Dark Grey',
+ 'url': 'jabra.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:25:00 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=earbuds&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'earbuds',
+ 'position': 2,
+ 'price': '249,00\xa0kr.',
+ 'product_url': 'https://www.power.dk/tv-og-lyd/hovedtelefoner/true-wireless-hovedtelefoner/jlab-audio-jbuds-air-anc-true-wireless/p-1134296/',
+ 'title': 'JLAB AUDIO JBUDS AIR ANC TRUE WIRELESS',
+ 'url': 'power.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:25:00 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=earbuds&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'earbuds',
+ 'position': 3,
+ 'price': '399,00\xa0kr.',
+ 'product_url': 'https://www.elgiganten.dk/product/tv-lyd-smart-home/horetelefoner-tilbehor/horetelefoner/jabra-elite-3-tradlose-in-ear-horetelefoner-dark-grey/332501',
+ 'title': 'Jabra Elite 3 trådløse in-ear høretelefoner (dark grey)',
+ 'url': 'elgiganten.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:25:00 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=earbuds&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'earbuds',
+ 'position': 4,
+ 'price': '599,00\xa0kr.',
+ 'product_url': 'https://sports-headset.dk/sport-cozy-traadloese-sports-hoeretelefoner?attribute-22652-174335=1',
+ 'title': 'Sport Cozy - Trådløse sports høretelefoner - Sort',
+ 'url': 'sports-headset.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:25:00 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=earbuds&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'earbuds',
+ 'position': 5,
+ 'price': '349,00\xa0kr.',
+ 'product_url': 'https://www.evermart.dk/lemonada-sports-earbuds-med-orekrog-sort',
+ 'title': 'Sports Earbuds med Ørekrog i Sort - Bluetooth Headset / '
+          'Høretelefoner Til løb, cykling, træning, svømning - trådløse in ear '
+          'earpods med opladningsetui',
+ 'url': 'evermart.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:25:00 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=earbuds&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'earbuds',
+ 'position': 6,
+ 'price': '406,00\xa0kr.',
+ 'product_url': 'https://dk.jbl.com/outlet/JBLW200TWSWHT.html?utm_campaign=free_listings&utm_source=google&utm_medium=organic',
+ 'title': 'JBL Wave 200TWS Hvid | In-Ear Headphones',
+ 'url': 'dk.jbl.com',
+ 'user_id': 'admin'}
+2023-09-17 13:25:00 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=earbuds&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'earbuds',
+ 'position': 7,
+ 'price': '115,00\xa0kr.',
+ 'product_url': 'https://www.avxperten.dk/earbuds/earbuds-bluetooth-hvid-streetz-tws-0008.asp',
+ 'title': 'Earbuds m/opladningsetui (Bluetooth) Hvid - Streetz TWS-0008',
+ 'url': 'avxperten.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:25:00 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=earbuds&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'earbuds',
+ 'position': 8,
+ 'price': '179,00\xa0kr.',
+ 'product_url': 'https://www.mytrendyphone.dk/shop/lenovo-ht05-tws-horetelefoner-bluetooth-5-0-271435p.html',
+ 'title': 'Lenovo HT05 TWS Høretelefoner med Bluetooth 5.0 - Sort',
+ 'url': 'mytrendyphone.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:25:01 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=earbuds&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'earbuds',
+ 'position': 9,
+ 'price': '199,00\xa0kr.',
+ 'product_url': 'https://www.power.dk/tv-og-lyd/hovedtelefoner/true-wireless-hovedtelefoner/philips-tat2206-true-wireless-hovedtelefoner-hvide/p-1181584/',
+ 'title': 'PHILIPS TAT2206 TRUE WIRELESS HOVEDTELEFONER HVIDE',
+ 'url': 'power.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:25:01 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=iphone+14&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'iphone 14',
+ 'position': 1,
+ 'price': '6.656,00\xa0kr.',
+ 'product_url': 'https://www.power.dk/mobil-og-foto/mobiltelefoner/apple-iphone-14-128-gb-midnat/p-1803962/',
+ 'title': 'APPLE IPHONE 14 128 GB MIDNAT',
+ 'url': 'power.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:25:01 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=iphone+14&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'iphone 14',
+ 'position': 2,
+ 'price': '5.674,99\xa0kr.',
+ 'product_url': 'https://www.refurbed.dk/p/iphone-14/?co=dk&utm_cluster=gradeB&utm_content=iphone-14&utm_group=iphone-14',
+ 'title': 'iPhone 14',
+ 'url': 'refurbed.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:25:01 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=iphone+14&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'iphone 14',
+ 'position': 3,
+ 'price': '5.761,00\xa0kr.',
+ 'product_url': 'https://yousee.dk/mobil/mobiltelefoner/apple/iphone-14/1468/mobil_80/kontant/',
+ 'title': 'Apple iPhone 14 128 GB Midnat med abonnementsaftale. Mindstepris '
+          '6.595,00 kr.',
+ 'url': 'yousee.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:25:01 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=iphone+14&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'iphone 14',
+ 'position': 4,
+ 'price': '6.999,00\xa0kr.',
+ 'product_url': 'https://www.elgiganten.dk/product/mobil-tablet-smartwatch/mobiltelefon/iphone-14-plus-5g-smartphone-128gb-midnight/522645',
+ 'title': 'iPhone 14 Plus – 5G smartphone 128GB Midnight',
+ 'url': 'elgiganten.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:25:01 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=iphone+14&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'iphone 14',
+ 'position': 5,
+ 'price': '6.299,00\xa0kr.',
+ 'product_url': 'https://www.callme.dk/shop/apple/apple-iphone-14/#/midnight/128-gb/1/1',
+ 'title': 'Apple iPhone 14 128GB Midnight. Mindstepris: 6462.00 kr. (med '
+          'abonnement)',
+ 'url': 'callme.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:25:02 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=iphone+14&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'iphone 14',
+ 'position': 6,
+ 'price': '6.666,00\xa0kr.',
+ 'product_url': 'https://www.proshop.dk/Mobil/Apple-iPhone-14-5G-128GB-Midnight/3104588?utm_source=google&utm_medium=cpc&utm_campaign=searchengine',
+ 'title': 'Apple iPhone 14 5G 128GB - Midnight',
+ 'url': 'proshop.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:25:02 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=iphone+14&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'iphone 14',
+ 'position': 7,
+ 'price': '5.496,00\xa0kr.',
+ 'product_url': 'https://www.telmore.dk/shop/mobiltelefoner/Apple/iphone-14?cid=_semt_terminal_terminal_Shopping_Shopping_u0617',
+ 'title': 'Apple iPhone 14 128 GB - Midnight. Mindstepris 7.290,00 kr.',
+ 'url': 'telmore.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:25:02 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=iphone+14&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'iphone 14',
+ 'position': 8,
+ 'price': '4.799,00\xa0kr.',
+ 'product_url': 'https://www.telenor.dk/shop/mobil/apple/iphone-13-128gb-green/?cycleCount=none',
+ 'title': 'Apple iPhone 13 - 128 GB - Grøn med abonnementsaftale. Mindstepris '
+          '6413.00 Kr.',
+ 'url': 'telenor.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:25:02 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=iphone+14&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'iphone 14',
+ 'position': 9,
+ 'price': '6.656,00\xa0kr.',
+ 'product_url': 'https://www.power.dk/mobil-og-foto/mobiltelefoner/apple-iphone-14-128-gb-stjerneskaer/p-1803963/',
+ 'title': 'APPLE IPHONE 14 128 GB STJERNESKÆR',
+ 'url': 'power.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:25:02 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=iphone+14&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'iphone 14',
+ 'position': 10,
+ 'price': '7.149,00\xa0kr.',
+ 'product_url': 'https://www.elgiganten.dk/product/mobil-tablet-smartwatch/mobiltelefon/iphone-14-5g-smartphone-128gb-midnight/522692',
+ 'title': 'iPhone 14 – 5G smartphone 128GB Midnight',
+ 'url': 'elgiganten.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:25:02 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=iphone+14&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'iphone 14',
+ 'position': 11,
+ 'price': '5.496,00\xa0kr.',
+ 'product_url': 'https://www.telmore.dk/shop/mobiltelefoner/Apple/iphone-14?cid=_semt_terminal_terminal_Shopping_Shopping_u0617',
+ 'title': 'Apple iPhone 14 128 GB - Purple. Mindstepris 7.290,00 kr.',
+ 'url': 'telmore.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:25:02 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=iphone+14&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'iphone 14',
+ 'position': 12,
+ 'price': '6.648,00\xa0kr.',
+ 'product_url': 'https://www.elgiganten.dk/product/outlet/iphone-14-5g-smartphone-128gb-bla/536427',
+ 'title': 'iPhone 14 – 5G smartphone 128GB blå',
+ 'url': 'elgiganten.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:25:03 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=iphone+14&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'iphone 14',
+ 'position': 13,
+ 'price': '4.799,00\xa0kr.',
+ 'product_url': 'https://www.telenor.dk/shop/mobil/apple/apple-iphone-13--128gb-midnight/?cycleCount=none',
+ 'title': 'Apple iPhone 13 - 128 GB - Midnight med abonnementsaftale. '
+          'Mindstepris 6413.00 Kr.',
+ 'url': 'telenor.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:25:03 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=iphone+14&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'iphone 14',
+ 'position': 14,
+ 'price': '5.912,99\xa0kr.',
+ 'product_url': 'https://www.refurbed.dk/p/iphone-14/40940c/?co=dk&utm_cluster=gradeC&utm_content=iphone-14-40940c&utm_group=iphone-14',
+ 'title': 'iPhone 14 | 128 GB | Dual-SIM | Midnat',
+ 'url': 'refurbed.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:25:03 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=iphone+14&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'iphone 14',
+ 'position': 15,
+ 'price': '7.416,99\xa0kr.',
+ 'product_url': 'https://www.refurbed.dk/p/iphone-14-pro/?co=dk&utm_cluster=gradeA&utm_content=iphone-14-pro&utm_group=iphone-14-pro',
+ 'title': 'iPhone 14 Pro',
+ 'url': 'refurbed.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:25:03 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=iphone+14&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'iphone 14',
+ 'position': 16,
+ 'price': '5.761,00\xa0kr.',
+ 'product_url': 'https://yousee.dk/mobil/mobiltelefoner/apple/iphone-14/1611/mobil_80/kontant/',
+ 'title': 'Apple iPhone 14 128 GB Gul med abonnementsaftale. Mindstepris '
+          '6.595,00 kr.',
+ 'url': 'yousee.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:25:03 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=iphone+14&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'iphone 14',
+ 'position': 17,
+ 'price': '8.888,00\xa0kr.',
+ 'product_url': 'https://www.proshop.dk/Mobil/Apple-iPhone-14-Pro-5G-128GB-Space-Black/3104713?utm_source=google&utm_medium=cpc&utm_campaign=searchengine',
+ 'title': 'Apple iPhone 14 Pro 5G 128GB - Space Black',
+ 'url': 'proshop.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:25:03 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=iphone+14&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'iphone 14',
+ 'position': 18,
+ 'price': '5.555,00\xa0kr.',
+ 'product_url': 'https://www.power.dk/mobil-og-foto/mobiltelefoner/apple-iphone-13-128-gb-midnat/p-1204127/',
+ 'title': 'APPLE IPHONE 13 128 GB MIDNAT',
+ 'url': 'power.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:25:04 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=iphone+14&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'iphone 14',
+ 'position': 19,
+ 'price': '6.666,00\xa0kr.',
+ 'product_url': 'https://www.proshop.dk/Mobil/Apple-iPhone-14-5G-128GB-Starlight/3104589?utm_source=google&utm_medium=cpc&utm_campaign=searchengine',
+ 'title': 'Apple iPhone 14 5G 128GB - Starlight, Mobiltelefon',
+ 'url': 'proshop.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:25:04 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=iphone+14&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'iphone 14',
+ 'position': 20,
+ 'price': '6.015,99\xa0kr.',
+ 'product_url': 'https://www.refurbed.dk/p/iphone-14/40928/?co=dk&utm_cluster=gradeA&utm_content=iphone-14-40928&utm_group=iphone-14',
+ 'title': 'Som Ny: iPhone 14 | 128 GB | Dual-SIM | blå',
+ 'url': 'refurbed.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:25:04 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=iphone+14&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'iphone 14',
+ 'position': 21,
+ 'price': '6.299,00\xa0kr.',
+ 'product_url': 'https://www.callme.dk/shop/apple/apple-iphone-14/#/starlight/128-gb/1/1',
+ 'title': 'Apple iPhone 14 128GB Starlight. Mindstepris: 6462.00 kr. (med '
+          'abonnement)',
+ 'url': 'callme.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:25:04 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=iphone+14&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'iphone 14',
+ 'position': 22,
+ 'price': '5.555,00\xa0kr.',
+ 'product_url': 'https://www.power.dk/mobil-og-foto/mobiltelefoner/apple-iphone-13-128-gb-lyseroed/p-1204129/',
+ 'title': 'APPLE IPHONE 13 128 GB LYSERØD',
+ 'url': 'power.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:25:04 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=iphone+14&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'iphone 14',
+ 'position': 23,
+ 'price': '4.310,99\xa0kr.',
+ 'product_url': 'https://www.refurbed.dk/p/iphone-13/?co=dk&utm_cluster=gradeC&utm_content=iphone-13&utm_group=iphone-13',
+ 'title': 'iPhone 13',
+ 'url': 'refurbed.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:25:05 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=iphone+14&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'iphone 14',
+ 'position': 24,
+ 'price': '6.409,00\xa0kr.',
+ 'product_url': 'https://swappie.com/dk/iphone/iphone-14/iphone-14-256gb-bla-18/',
+ 'title': 'iPhone 14 256GB Blå Apple',
+ 'url': 'swappie.com',
+ 'user_id': 'admin'}
+2023-09-17 13:25:05 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=iphone+14&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'iphone 14',
+ 'position': 25,
+ 'price': '3.043,99\xa0kr.',
+ 'product_url': 'https://www.refurbed.dk/p/iphone-12/?co=dk&utm_cluster=gradeA&utm_content=iphone-12&utm_group=iphone-12',
+ 'title': 'iPhone 12',
+ 'url': 'refurbed.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:25:05 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=iphone+14&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'iphone 14',
+ 'position': 26,
+ 'price': '5.912,99\xa0kr.',
+ 'product_url': 'https://www.refurbed.dk/p/iphone-14/40933c/?co=dk&utm_cluster=gradeC&utm_content=iphone-14-40933c&utm_group=iphone-14',
+ 'title': 'iPhone 14 | 128 GB | Dual-SIM | violet',
+ 'url': 'refurbed.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:25:05 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=iphone+14&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'iphone 14',
+ 'position': 27,
+ 'price': '6.656,00\xa0kr.',
+ 'product_url': 'https://www.power.dk/mobil-og-foto/mobiltelefoner/apple-iphone-14-128-gb-blaa/p-1803966/',
+ 'title': 'APPLE IPHONE 14 128 GB BLÅ',
+ 'url': 'power.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:25:05 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=iphone+14&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'iphone 14',
+ 'position': 28,
+ 'price': '6.546,00\xa0kr.',
+ 'product_url': 'http://www.computersalg.dk/i/9226184/apple-iphone-14-5g-smartphone-dual-sim-intern-hukommelse-128-gb-oled-sk%C3%A6rm-6-1-2532-x-1170-pixels-2x-bagkameraer-12-mp-12-mp?utm_source=googlefeed&utm_medium=5065-it-elektronik-telefoni-gps-mobiltelefoner&utm_campaign=apple&utm_content=48',
+ 'title': 'Apple Iphone 14 - 5G Smartphone - Dual-Sim / Intern Hukommelse 128 '
+          'Gb - Oled-Skærm - 6.1" - 2532 X 1170 Pixels - 2X Bagkameraer 12 Mp, '
+          '12 Mp - Front',
+ 'url': 'computersalg.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:25:05 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=iphone+14&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'iphone 14',
+ 'position': 29,
+ 'price': '6.656,00\xa0kr.',
+ 'product_url': 'https://www.power.dk/mobil-og-foto/mobiltelefoner/apple-iphone-14-128-gb-lilla/p-1803964/',
+ 'title': 'APPLE IPHONE 14 128 GB LILLA',
+ 'url': 'power.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:25:05 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=iphone+14&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'iphone 14',
+ 'position': 30,
+ 'price': None,
+ 'product_url': None,
+ 'title': None,
+ 'url': '',
+ 'user_id': 'admin'}
+2023-09-17 13:25:06 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=iphone+13&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'iphone 13',
+ 'position': 1,
+ 'price': '5.555,00\xa0kr.',
+ 'product_url': 'https://www.power.dk/mobil-og-foto/mobiltelefoner/apple-iphone-13-128-gb-midnat/p-1204127/',
+ 'title': 'APPLE IPHONE 13 128 GB MIDNAT',
+ 'url': 'power.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:25:06 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=iphone+13&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'iphone 13',
+ 'position': 2,
+ 'price': '4.310,99\xa0kr.',
+ 'product_url': 'https://www.refurbed.dk/p/iphone-13/?co=dk&utm_cluster=gradeC&utm_content=iphone-13&utm_group=iphone-13',
+ 'title': 'iPhone 13',
+ 'url': 'refurbed.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:25:06 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=iphone+13&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'iphone 13',
+ 'position': 3,
+ 'price': '6.399,00\xa0kr.',
+ 'product_url': 'https://www.elgiganten.dk/product/mobil-tablet-smartwatch/mobiltelefon/iphone-13-5g-smartphone-128gb-midnight/361879',
+ 'title': 'iPhone 13 – 5G smartphone 128GB Midnight',
+ 'url': 'elgiganten.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:25:06 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=iphone+13&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'iphone 13',
+ 'position': 4,
+ 'price': '4.619,00\xa0kr.',
+ 'product_url': 'https://swappie.com/dk/iphone/iphone-13/iphone-13-128gb-bla-9/',
+ 'title': 'iPhone 13 128GB Blå Apple',
+ 'url': 'swappie.com',
+ 'user_id': 'admin'}
+2023-09-17 13:25:06 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=iphone+13&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'iphone 13',
+ 'position': 5,
+ 'price': '4.310,99\xa0kr.',
+ 'product_url': 'https://www.refurbed.dk/p/iphone-13/14162c/?co=dk&utm_cluster=gradeC&utm_content=iphone-13-14162c&utm_group=iphone-13',
+ 'title': 'iPhone 13 | 128 GB | Dual-SIM | sort',
+ 'url': 'refurbed.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:25:06 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=iphone+13&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'iphone 13',
+ 'position': 6,
+ 'price': '4.799,00\xa0kr.',
+ 'product_url': 'https://www.telenor.dk/shop/mobil/apple/apple-iphone-13--128gb-midnight/?cycleCount=none',
+ 'title': 'Apple iPhone 13 - 128 GB - Midnight med abonnementsaftale. '
+          'Mindstepris 6413.00 Kr.',
+ 'url': 'telenor.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:25:06 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=iphone+13&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'iphone 13',
+ 'position': 7,
+ 'price': '5.555,00\xa0kr.',
+ 'product_url': 'https://www.power.dk/mobil-og-foto/mobiltelefoner/apple-iphone-13-128-gb-lyseroed/p-1204129/',
+ 'title': 'APPLE IPHONE 13 128 GB LYSERØD',
+ 'url': 'power.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:25:07 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=iphone+13&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'iphone 13',
+ 'position': 8,
+ 'price': '4.613,99\xa0kr.',
+ 'product_url': 'https://www.refurbed.dk/p/iphone-13/14156b/?co=dk&utm_cluster=gradeB&utm_content=iphone-13-14156b&utm_group=iphone-13',
+ 'title': 'iPhone 13 | 128 GB | Dual-SIM | pink',
+ 'url': 'refurbed.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:25:07 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=iphone+13&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'iphone 13',
+ 'position': 9,
+ 'price': '5.995,00\xa0kr.',
+ 'product_url': 'https://www.proshop.dk/Mobil/Apple-iPhone-13-5G-128GB-Green/3054978?utm_source=google&utm_medium=cpc&utm_campaign=searchengine',
+ 'title': 'Apple iPhone 13 5G 128GB - Green, Mobiltelefon',
+ 'url': 'proshop.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:25:07 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=iphone+13&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'iphone 13',
+ 'position': 10,
+ 'price': '3.043,99\xa0kr.',
+ 'product_url': 'https://www.refurbed.dk/p/iphone-12/?co=dk&utm_cluster=gradeA&utm_content=iphone-12&utm_group=iphone-12',
+ 'title': 'iPhone 12',
+ 'url': 'refurbed.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:25:07 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=iphone+13&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'iphone 13',
+ 'position': 11,
+ 'price': '5.555,00\xa0kr.',
+ 'product_url': 'https://www.power.dk/mobil-og-foto/mobiltelefoner/apple-iphone-13-128-gb-stjerneskaer/p-1204128/',
+ 'title': 'APPLE IPHONE 13 128 GB STJERNESKÆR',
+ 'url': 'power.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:25:07 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=iphone+13&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'iphone 13',
+ 'position': 12,
+ 'price': '4.295,00\xa0kr.',
+ 'product_url': 'https://tech24.dk/products/brugt-iphone-13-128gb-som-ny-pink?variant=46819277734216&currency=DKK',
+ 'title': 'Brugt iPhone 13, 128GB - God stand - Pink - tech24.dk Nej tak',
+ 'url': 'tech24.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:25:07 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=iphone+13&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'iphone 13',
+ 'position': 13,
+ 'price': '5.951,00\xa0kr.',
+ 'product_url': 'https://www.elgiganten.dk/product/outlet/iphone-13-5g-smartphone-128gb-starlight/372459',
+ 'title': 'iPhone 13 – 5G smartphone 128GB Starlight',
+ 'url': 'elgiganten.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:25:07 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=iphone+13&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'iphone 13',
+ 'position': 14,
+ 'price': '5.799,00\xa0kr.',
+ 'product_url': 'https://www.apple.com/dk/shop/go/product/MLPH3?cid=aos-dk-seo-pla',
+ 'title': 'Apple iPhone 13 128 GB – lyserød',
+ 'url': 'apple.com',
+ 'user_id': 'admin'}
+2023-09-17 13:25:08 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=iphone+13&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'iphone 13',
+ 'position': 15,
+ 'price': '5.530,99\xa0kr.',
+ 'product_url': 'https://www.refurbed.dk/p/iphone-13-pro/?co=dk&utm_cluster=gradeB&utm_content=iphone-13-pro&utm_group=iphone-13-pro',
+ 'title': 'iPhone 13 Pro',
+ 'url': 'refurbed.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:25:08 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=iphone+13&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'iphone 13',
+ 'position': 16,
+ 'price': '4.765,99\xa0kr.',
+ 'product_url': 'https://www.refurbed.dk/p/iphone-13/14159/?co=dk&utm_cluster=gradeA&utm_content=iphone-13-14159&utm_group=iphone-13',
+ 'title': 'Som Ny: iPhone 13 | 128 GB | Dual-SIM | blå',
+ 'url': 'refurbed.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:25:08 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=iphone+13&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'iphone 13',
+ 'position': 17,
+ 'price': '5.999,00\xa0kr.',
+ 'product_url': 'https://www.bilka.dk/produkter/iphone-13-128-gb-midnight/200055069/',
+ 'title': 'iPhone 13 128 GB - Midnight',
+ 'url': 'bilka.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:25:08 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=iphone+13&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'iphone 13',
+ 'position': 18,
+ 'price': '4.389,00\xa0kr.',
+ 'product_url': 'https://swappie.com/dk/iphone/iphone-13/iphone-13-128gb-midnat-7/',
+ 'title': 'iPhone 13 128GB Midnat Apple',
+ 'url': 'swappie.com',
+ 'user_id': 'admin'}
+2023-09-17 13:25:08 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=iphone+13&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'iphone 13',
+ 'position': 19,
+ 'price': '3.995,00\xa0kr.',
+ 'product_url': 'https://www.phonetrade.dk/kob/iphone-13/stjerneskaer-128gb-brugbar-599',
+ 'title': 'iPhone 13, 128GB, Stjerneskær',
+ 'url': 'phonetrade.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:25:08 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=iphone+13&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'iphone 13',
+ 'position': 20,
+ 'price': '5.995,00\xa0kr.',
+ 'product_url': 'https://www.proshop.dk/Mobil/Apple-iPhone-13-5G-128GB-Midnight/2998486?utm_source=google&utm_medium=cpc&utm_campaign=searchengine',
+ 'title': 'Apple iPhone 13 5G 128GB - Midnight, Mobiltelefon',
+ 'url': 'proshop.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:25:08 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=iphone+13&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'iphone 13',
+ 'position': 21,
+ 'price': '4.499,00\xa0kr.',
+ 'product_url': 'https://greenmind.dk/telefoner/iphones/iphone-13/iphone-13-mini/apple-iphone-13-mini-128-gb-bla-brugt-som-ny-24827',
+ 'title': 'Apple iPhone 13 Mini 128 GB Blå Brugt - Som ny',
+ 'url': 'greenmind.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:25:09 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=iphone+13&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'iphone 13',
+ 'position': 22,
+ 'price': '4.899,00\xa0kr.',
+ 'product_url': 'https://www.telia.dk/shop/apple/apple-iphone-13/#/midnight/128-gb/1',
+ 'title': 'Apple iPhone 13 128GB Midnight. Min.pris: 6.702,00kr. 6 mdr. '
+          'binding',
+ 'url': 'telia.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:25:09 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=iphone+13&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'iphone 13',
+ 'position': 23,
+ 'price': '4.799,00\xa0kr.',
+ 'product_url': 'https://www.telenor.dk/shop/mobil/apple/iphone-13-128gb-green/?cycleCount=none',
+ 'title': 'Apple iPhone 13 - 128 GB - Grøn med abonnementsaftale. Mindstepris '
+          '6413.00 Kr.',
+ 'url': 'telenor.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:25:09 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=iphone+13&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'iphone 13',
+ 'position': 24,
+ 'price': '4.295,00\xa0kr.',
+ 'product_url': 'https://tech24.dk/products/brugt-iphone-13-128gb-god-stand-sort?variant=47520691945800&currency=DKK',
+ 'title': 'Brugt iPhone 13, 128GB - God stand - Pink - tech24.dk Nej tak',
+ 'url': 'tech24.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:25:09 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=iphone+13&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'iphone 13',
+ 'position': 25,
+ 'price': '5.799,00\xa0kr.',
+ 'product_url': 'https://www.apple.com/dk/shop/go/product/MLPF3?cid=aos-dk-seo-pla',
+ 'title': 'Apple iPhone 13 128 GB – midnat',
+ 'url': 'apple.com',
+ 'user_id': 'admin'}
+2023-09-17 13:25:09 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=iphone+13&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'iphone 13',
+ 'position': 26,
+ 'price': '5.555,00\xa0kr.',
+ 'product_url': 'https://www.power.dk/mobil-og-foto/mobiltelefoner/apple-iphone-13-128-gb-blaa/p-1204131/',
+ 'title': 'APPLE IPHONE 13 128 GB BLÅ',
+ 'url': 'power.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:25:09 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=iphone+13&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'iphone 13',
+ 'position': 27,
+ 'price': '4.310,99\xa0kr.',
+ 'product_url': 'https://www.refurbed.dk/p/iphone-13/14168c/?co=dk&utm_cluster=gradeC&utm_content=iphone-13-14168c&utm_group=iphone-13',
+ 'title': 'iPhone 13 | 128 GB | Dual-SIM | rød',
+ 'url': 'refurbed.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:25:10 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=iphone+13&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'iphone 13',
+ 'position': 28,
+ 'price': '5.485,00\xa0kr.',
+ 'product_url': 'https://www.power.dk/mobil-og-foto/mobiltelefoner/apple-iphone-13-mini-128-gb-midnat/p-1204142/',
+ 'title': 'APPLE IPHONE 13 MINI 128 GB MIDNAT',
+ 'url': 'power.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:25:10 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=iphone+13&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'iphone 13',
+ 'position': 29,
+ 'price': '5.555,00\xa0kr.',
+ 'product_url': 'https://www.power.dk/mobil-og-foto/mobiltelefoner/apple-iphone-13-128-gb-groen/p-1335029/',
+ 'title': 'APPLE IPHONE 13 128 GB GRØN',
+ 'url': 'power.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:25:10 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=iphone+13&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'iphone 13',
+ 'position': 30,
+ 'price': None,
+ 'product_url': None,
+ 'title': None,
+ 'url': '',
+ 'user_id': 'admin'}
+2023-09-17 13:25:10 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=phone&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'phone',
+ 'position': 1,
+ 'price': '9.599,00\xa0kr.',
+ 'product_url': 'https://www.telenor.dk/shop/mobil/apple/apple-iphone-14-pro-max-256gb-deep-purple/?cycleCount=none',
+ 'title': 'Apple iPhone 14 Pro Max - 256 GB - Deep Purple med '
+          'abonnementsaftale. Mindstepris 11213.00 Kr.',
+ 'url': 'telenor.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:25:11 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=phone&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'phone',
+ 'position': 2,
+ 'price': '2.999,00\xa0kr.',
+ 'product_url': 'https://www.elgiganten.dk/product/mobil-tablet-smartwatch/mobiltelefon/samsung-galaxy-a54-5g-smartphone-8128gb-sort/575780',
+ 'title': 'Samsung Galaxy A54 5G smartphone 8/128GB (sort)',
+ 'url': 'elgiganten.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:25:11 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=phone&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'phone',
+ 'position': 3,
+ 'price': '1.389,00\xa0kr.',
+ 'product_url': 'https://www.power.dk/mobil-og-foto/mobiltelefoner/samsung-galaxy-a14-128-gb-lysegroen/p-1940253/',
+ 'title': 'SAMSUNG GALAXY A14 128 GB LYSEGRØN',
+ 'url': 'power.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:25:11 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=phone&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'phone',
+ 'position': 4,
+ 'price': '1.699,99\xa0kr.',
+ 'product_url': 'https://www.refurbed.dk/p/samsung-galaxy-s10/3603c/?co=dk&utm_cluster=gradeC&utm_content=samsung-galaxy-s10-3603c&utm_group=samsung-galaxy-s10',
+ 'title': 'Samsung Galaxy S10 | 128 GB | Dual-SIM | Prism Black',
+ 'url': 'refurbed.dk',
+ 'user_id': 'admin'}
+2023-09-17 13:25:11 [scrapy] INFO: Closing spider (finished)
+2023-09-17 13:25:11 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 4882,
+ 'downloader/request_count': 11,
+ 'downloader/request_method_count/GET': 11,
+ 'downloader/response_bytes': 2341723,
+ 'downloader/response_count': 11,
+ 'downloader/response_status_count/200': 10,
+ 'downloader/response_status_count/302': 1,
+ 'elapsed_time_seconds': 25.726973,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2023, 9, 17, 8, 25, 11, 325096),
+ 'httpcompression/response_bytes': 8738774,
+ 'httpcompression/response_count': 10,
+ 'item_scraped_count': 145,
+ 'log_count/DEBUG': 156,
+ 'log_count/INFO': 8,
+ 'response_received_count': 10,
+ 'scheduler/dequeued': 11,
+ 'scheduler/dequeued/memory': 11,
+ 'scheduler/enqueued': 11,
+ 'scheduler/enqueued/memory': 11,
+ 'start_time': datetime.datetime(2023, 9, 17, 8, 24, 45, 598123)}
+2023-09-17 13:25:11 [scrapy] INFO: Spider closed (finished)

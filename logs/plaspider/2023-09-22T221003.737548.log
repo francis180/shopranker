@@ -1,0 +1,105 @@
+2023-09-22 22:10:08 [scrapy] DEBUG: Crawled (200) <GET https://www.google.com/search?q=macbook&hl=en&gl=DK&start=0> (referer: None)
+2023-09-22 22:10:08 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=macbook&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'macbook',
+ 'position': 1,
+ 'price': '7.649,00\xa0kr.',
+ 'product_url': 'https://www.elgiganten.dk/product/computer-kontor/computere/barbar-computer/macbook-air-13-m18256-2020-space-grey/254420',
+ 'title': 'MacBook Air 13 M1/8/256 2020 (space grey)',
+ 'url': 'elgiganten.dk',
+ 'user_id': 'admin'}
+2023-09-22 22:10:08 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=macbook&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'macbook',
+ 'position': 2,
+ 'price': '5.779,99\xa0kr.',
+ 'product_url': 'https://www.refurbed.dk/p/macbook-pro-2019-133-tb/?co=dk&utm_cluster=gradeC&utm_content=macbook-pro-2019-133-tb&utm_group=macbook-pro-2019-133-tb',
+ 'title': 'Apple MacBook Pro 2019 | 13.3" | Touch Bar',
+ 'url': 'refurbed.dk',
+ 'user_id': 'admin'}
+2023-09-22 22:10:08 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=macbook&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'macbook',
+ 'position': 3,
+ 'price': '9.999,00\xa0kr.',
+ 'product_url': 'https://www.bilka.dk/produkter/apple-macbook-pro-m2-13-3-256-gb-silver/200153771/',
+ 'title': 'Apple Macbook Pro M2 13,3" 256 GB Silver',
+ 'url': 'bilka.dk',
+ 'user_id': 'admin'}
+2023-09-22 22:10:09 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=macbook&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'macbook',
+ 'position': 4,
+ 'price': '9.489,00\xa0kr.',
+ 'product_url': 'https://www.elgiganten.dk/product/computer-kontor/computere/barbar-computer/macbook-air-m2-2022-8256-gb-barbar-computer-space-gray/474930',
+ 'title': 'MacBook Air M2 2022 8/256 GB bærbar computer (Space Gray)',
+ 'url': 'elgiganten.dk',
+ 'user_id': 'admin'}
+2023-09-22 22:10:09 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=macbook&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'macbook',
+ 'position': 5,
+ 'price': '7.488,00\xa0kr.',
+ 'product_url': 'https://www.power.dk/computere-og-tablets/computere/baerbar-pc/apple-macbook-air-2020-m1-mgn63dka-13-256-gb-space-grey/p-1133484/',
+ 'title': 'APPLE MACBOOK AIR 2020 M1 MGN63DK/A 13" 256 GB SPACE GREY',
+ 'url': 'power.dk',
+ 'user_id': 'admin'}
+2023-09-22 22:10:09 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=macbook&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'macbook',
+ 'position': 6,
+ 'price': '9.489,00\xa0kr.',
+ 'product_url': 'https://www.elgiganten.dk/product/computer-kontor/computere/barbar-computer/macbook-air-m2-2022-8256-gb-barbar-computer-starlight/474935',
+ 'title': 'MacBook Air M2 2022 8/256 GB bærbar computer (Starlight)',
+ 'url': 'elgiganten.dk',
+ 'user_id': 'admin'}
+2023-09-22 22:10:09 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=macbook&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'macbook',
+ 'position': 7,
+ 'price': '3.812,99\xa0kr.',
+ 'product_url': 'https://www.refurbed.dk/p/apple-macbook-pro-2017-i5-13/?co=dk&utm_cluster=gradeC&utm_content=apple-macbook-pro-2017-i5-13&utm_group=apple-macbook-pro-2017-i5-13',
+ 'title': 'Apple MacBook Pro 2017 | 13.3"',
+ 'url': 'refurbed.dk',
+ 'user_id': 'admin'}
+2023-09-22 22:10:09 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=macbook&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'macbook',
+ 'position': 8,
+ 'price': '9.589,00\xa0kr.',
+ 'product_url': 'https://www.elgiganten.dk/product/computer-kontor/computere/barbar-computer/macbook-air-m2-2022-8256-gb-barbar-computer-midnight/474934',
+ 'title': 'MacBook Air M2 2022 8/256 GB bærbar computer (Midnight)',
+ 'url': 'elgiganten.dk',
+ 'user_id': 'admin'}
+2023-09-22 22:10:09 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=macbook&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'macbook',
+ 'position': 9,
+ 'price': '4.720,99\xa0kr.',
+ 'product_url': 'https://www.refurbed.dk/p/apple-macbook-pro-2017-13-3-touc/?co=dk&utm_cluster=gradeC&utm_content=apple-macbook-pro-2017-13-3-touc&utm_group=apple-macbook-pro-2017-13-3-touc',
+ 'title': 'Apple MacBook Pro 2017 | 13.3" | Touch Bar',
+ 'url': 'refurbed.dk',
+ 'user_id': 'admin'}
+2023-09-22 22:10:09 [scrapy] INFO: Closing spider (finished)
+2023-09-22 22:10:09 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 420,
+ 'downloader/request_count': 1,
+ 'downloader/request_method_count/GET': 1,
+ 'downloader/response_bytes': 207017,
+ 'downloader/response_count': 1,
+ 'downloader/response_status_count/200': 1,
+ 'elapsed_time_seconds': 5.80831,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2023, 9, 22, 17, 10, 9, 550859),
+ 'httpcompression/response_bytes': 763469,
+ 'httpcompression/response_count': 1,
+ 'item_scraped_count': 9,
+ 'log_count/DEBUG': 10,
+ 'log_count/INFO': 8,
+ 'response_received_count': 1,
+ 'scheduler/dequeued': 1,
+ 'scheduler/dequeued/memory': 1,
+ 'scheduler/enqueued': 1,
+ 'scheduler/enqueued/memory': 1,
+ 'start_time': datetime.datetime(2023, 9, 22, 17, 10, 3, 742549)}
+2023-09-22 22:10:09 [scrapy] INFO: Spider closed (finished)

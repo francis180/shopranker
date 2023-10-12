@@ -1,0 +1,101 @@
+2023-08-19 14:05:59 [scrapy] DEBUG: Crawled (200) <GET https://www.google.com/search?q=nike&hl=en&gl=DK&start=0> (referer: None)
+2023-08-19 14:06:00 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=nike&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'nike',
+ 'position': 1,
+ 'price': '1.199,00\xa0kr.',
+ 'product_url': 'https://www.unisport.dk/fodboldstovler/zoom-vapor-15-pro-fg-pink-blastvolt-gridiron/291405/?dfw=10050&feed=21607',
+ 'title': 'Nike Air Zoom Mercurial Vapor 15 Pro FG Luminous - Pink/Neon/Grå - '
+          'Græs (FG), størrelse 44½',
+ 'url': 'unisport.dk'}
+2023-08-19 14:06:00 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=nike&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'nike',
+ 'position': 2,
+ 'price': '2.599,00\xa0kr.',
+ 'product_url': 'https://www.nike.com/dk/en/t/alphafly-2-konkurrencelobesko-vej-fvDSdT/DZ4784-304?nikegos=true',
+ 'title': "Nike - Alphafly 2 Men's Road Racing Shoes - Green",
+ 'url': 'nike.com'}
+2023-08-19 14:06:00 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=nike&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'nike',
+ 'position': 3,
+ 'price': '899,00\xa0kr.',
+ 'product_url': 'https://www.zalando.dk/nike-sportswear-dunk-sneakers-whiteblack-ni111a0zk-a13.html?size=39&allophones=0',
+ 'title': 'Nike Sportswear DUNK NEXT Nature Sneakers, Dame, Størrelse: 39, '
+          'White/black - Imiteret læder/tekstil',
+ 'url': 'zalando.dk'}
+2023-08-19 14:06:00 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=nike&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'nike',
+ 'position': 4,
+ 'price': '1.000,00\xa0kr.',
+ 'product_url': 'https://www.jdsports.dk/product/bl-nike-air-force-1-low-herre/1267679_jdsportsdk/?istCompanyId=814e38cb-c583-4d16-854b-4855d16aea62&istFeedId=ad6ca9e4-99e9-4353-b0de-278c10cd18a5&istItemId=rwtxlqapl&istBid=t',
+ 'title': 'Nike Air Force 1 Low Herre',
+ 'url': 'jdsports.dk'}
+2023-08-19 14:06:00 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=nike&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'nike',
+ 'position': 5,
+ 'price': '815,00\xa0kr.',
+ 'product_url': 'https://www.aboutyou.dk/p/nike-sportswear/sneaker-low-p-6000-11536432?vid=58811040&om_channel=PLA',
+ 'title': "Nike Sportswear, Damer, Sneaker low 'P-6000', Sort / Sølv / Hvid, "
+          'Størrelse 8',
+ 'url': 'aboutyou.dk'}
+2023-08-19 14:06:00 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=nike&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'nike',
+ 'position': 6,
+ 'price': '189,00\xa0kr.',
+ 'product_url': 'https://www.unisport.dk/fodbold365/nike-sokker-cushion-6-pak-hvidsort/202481/?dfw=10050&feed=21607',
+ 'title': 'Nike Sokker Cushion 6-pak - Hvid/sort, størrelse L: 42-46',
+ 'url': 'unisport.dk'}
+2023-08-19 14:06:00 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=nike&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'nike',
+ 'position': 7,
+ 'price': '629,00\xa0kr.',
+ 'product_url': 'https://www.zalando.dk/nike-sportswear-dunk-ess-sneakers-medium-greyvarsity-redwhite-ni111a19a-m11.html?size=38.5&allophones=0',
+ 'title': 'Nike Sportswear DUNK ESS Sneakers, Dame, Størrelse: 38.5, Medium '
+          'grey/varsity red/white - Satin',
+ 'url': 'zalando.dk'}
+2023-08-19 14:06:00 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=nike&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'nike',
+ 'position': 8,
+ 'price': '580,00\xa0kr.',
+ 'product_url': 'https://www.zalando.dk/jordan-air-1-mid-sneakers-high-cement-greywhitetrue-blue-joc12o01n-c11.html?size=52.5&allophones=0',
+ 'title': 'Jordan AIR Jordan 1 Sneakers high, Herre, Størrelse: 52.5, Cement '
+          'grey/white/true blue - Læder og imiteret læder',
+ 'url': 'zalando.dk'}
+2023-08-19 14:06:01 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=nike&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'nike',
+ 'position': 9,
+ 'price': '2.499,00\xa0kr.',
+ 'product_url': 'https://www.nike.com/dk/t/alphafly-2-konkurrencelobesko-vej-fvDSdT/DN3555-600?nikegos=true',
+ 'title': 'Nike Alphafly 2-konkurrenceløbesko til vej til mænd - Pink',
+ 'url': 'nike.com'}
+2023-08-19 14:06:01 [scrapy] INFO: Closing spider (finished)
+2023-08-19 14:06:01 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 417,
+ 'downloader/request_count': 1,
+ 'downloader/request_method_count/GET': 1,
+ 'downloader/response_bytes': 263029,
+ 'downloader/response_count': 1,
+ 'downloader/response_status_count/200': 1,
+ 'elapsed_time_seconds': 4.893065,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2023, 8, 19, 9, 6, 1, 20746),
+ 'httpcompression/response_bytes': 909753,
+ 'httpcompression/response_count': 1,
+ 'item_scraped_count': 9,
+ 'log_count/DEBUG': 10,
+ 'log_count/INFO': 8,
+ 'response_received_count': 1,
+ 'scheduler/dequeued': 1,
+ 'scheduler/dequeued/memory': 1,
+ 'scheduler/enqueued': 1,
+ 'scheduler/enqueued/memory': 1,
+ 'start_time': datetime.datetime(2023, 8, 19, 9, 5, 56, 127681)}
+2023-08-19 14:06:01 [scrapy] INFO: Spider closed (finished)

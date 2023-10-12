@@ -1,0 +1,315 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>Shopranks</title>
+    <!-- Favicon icon -->
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="16x16"
+      href="{% static 'assets/images/favicon.png' %}"
+    />
+    <!-- Custom Stylesheet -->
+    <link href="{% static 'assets/css/style.css' %}" rel="stylesheet" />
+    <link
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css"
+      rel="stylesheet"
+    />
+    <link
+      href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900&display=swap"
+      rel="stylesheet" />
+      <script src="https://cdn.tailwindcss.com"></script>
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/tw-elements/dist/css/tw-elements.min.css" />
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    
+  </head>
+
+  <body>
+    <!--*******************
+        Preloader start
+    ********************-->
+    <div id="preloader">
+      <div class="loader">
+        <svg class="circular" viewBox="25 25 50 50">
+          <circle
+            class="path"
+            cx="50"
+            cy="50"
+            r="20"
+            fill="none"
+            stroke-width="3"
+            stroke-miterlimit="10"
+          />
+        </svg>
+      </div>
+    </div>
+    <!--*******************
+        Preloader end
+    ********************-->
+
+    <!--**********************************
+        Main wrapper start
+    ***********************************-->
+    <div id="main-wrapper">
+      <!--**********************************
+            Nav header start
+        ***********************************-->
+      <div class="nav-header">
+        <div class="brand-logo">
+          <a href="/dashboard">
+            <span class="brand-title text-white fs-1">
+              <!-- <img src="{% static 'assets/images/logo-text.png' %}" alt=""> -->
+              Shopranks
+            </span>
+          </a>
+        </div>
+      </div>
+      <!--**********************************
+            Nav header end
+        ***********************************-->
+
+      <!--**********************************
+            Header start
+        ***********************************-->
+      <div class="header">
+        <div class="header-content clearfix">
+          <div class="nav-control">
+            <div class="hamburger">
+              <span class="toggle-icon"><i class="icon-menu"></i></span>
+            </div>
+          </div>
+          <div class="header-left flex items-center">
+            <div class="input-group icons mt-0">
+              <p class="mb-0">
+                Hi,
+                <span class="font-bold text-primary">{{user.username}}</span>
+              </p>
+            </div>
+          </div>
+          <div class="header-right">
+            <ul class="clearfix">
+              <li class="icons dropdown">
+                <div
+                  class="user-img c-pointer position-relative"
+                  data-toggle="dropdown"
+                >
+                  <span class="activity active"></span>
+                  <img
+                    src="{% static 'assets/images/user/1.png' %}"
+                    height="40"
+                    width="40"
+                    alt=""
+                  />
+                </div>
+                <div class="drop-down dropdown-profile dropdown-menu">
+                  <div class="dropdown-content-body">
+                    <ul>
+                      <li>
+                        <a href="app-profile.html"
+                          ><i class="icon-user"></i> <span>Profile</span></a
+                        >
+                      </li>
+                      <li>
+                        <a href="email-inbox.html"
+                          ><i class="icon-envelope-open"></i> <span>Inbox</span>
+                          <div
+                            class="badge gradient-3 badge-pill badge-primary"
+                          >
+                            3
+                          </div></a
+                        >
+                      </li>
+
+                      <hr class="my-2" />
+                      <li>
+                        <a href="page-lock.html"
+                          ><i class="icon-lock"></i> <span>Lock Screen</span></a
+                        >
+                      </li>
+                      <li>
+                        <a href="{% url 'logout' %}"
+                          ><i class="icon-key"></i> <span>Logout</span></a
+                        >
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <!--**********************************
+            Header end ti-comment-alt
+        ***********************************-->
+
+      <!--**********************************
+            Sidebar start
+        ***********************************-->
+      <div class="nk-sidebar">
+        <div class="nk-nav-scroll">
+          <ul class="metismenu" id="menu">
+            {% comment %} <a href="/pricing"
+              ><li class="nav-label text-gray-900">
+                <i class="fa-solid fa-money-check-dollar"></i> Pricing
+              </li>
+              <i class="fa-solid fa-money-check-dollar side-bar-icon hidden"></i>
+              </a
+            > {% endcomment %}
+            <a href="/groups"
+              ><li class="nav-label text-gray-900">
+                <i class="fa-solid fa-layer-group"></i> Groups
+              </li>
+              <i class="fa-solid fa-layer-group side-bar-icon hidden"></i>
+              </a
+              >
+            <a href="/domains"
+              ><li class="nav-label text-gray-900">
+                <i class="fa-solid fa-worm"></i> Domains
+              </li>
+              <i class="fa-solid fa-worm side-bar-icon hidden"></i>
+              </a
+            >
+            <a href="/reports"
+              ><li class="nav-label text-gray-900"> 
+                <i class="fa-solid fa-chart-simple"></i> Reports
+              </li>
+              <i class="fa-solid fa-chart-simple side-bar-icon hidden"></i>
+              </a
+            >
+            {% comment %} <a href="/search"
+              ><li class="nav-label text-gray-900">
+                <i class="fa-solid fa-magnifying-glass"></i> Search
+              </li></a
+            > {% endcomment %}
+            <a href="/keywords"
+              ><li class="nav-label text-gray-900">
+                <i class="fa-solid fa-record-vinyl"></i> Keywords
+              </li>
+                <i class="fa-solid fa-record-vinyl side-bar-icon hidden"></i>
+              </a
+            >
+          </ul>
+        </div>
+      </div>
+      <!--**********************************
+            Sidebar end
+        ***********************************-->
+
+      <!--**********************************
+            Content body start
+        ***********************************-->
+      
+      <div class="content-body">
+        <div class="row page-titles mx-0">
+          <div class="col p-md-0"></div>
+        </div>
+        {% if not user.is_member %}
+        <!-- row -->
+        {% comment %} <div class="container mx-auto">
+          <!-- Section: Design Block -->
+          <section class="mb-12">
+            <div
+              class="alert alert-dismissible fade show items-center justify-between rounded-lg bg-red-500 py-4 px-6 text-center text-white md:flex md:text-left">
+              <div class="flex flex-wrap items-center justify-center md:mb-0 md:justify-start">
+                <span class="mr-2 [&>svg]:h-5 [&>svg]:w-5">
+                  <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2"
+                    stroke="currentColor" class="text-white">
+                    <path stroke-linecap="round" stroke-linejoin="round"
+                      d="M15.362 5.214A8.252 8.252 0 0112 21 8.25 8.25 0 016.038 7.048 8.287 8.287 0 009 9.6a8.983 8.983 0 013.361-6.867 8.21 8.21 0 003 2.48z" />
+                    <path stroke-linecap="round" stroke-linejoin="round"
+                      d="M12 18a3.75 3.75 0 00.495-7.467 5.99 5.99 0 00-1.925 3.546 5.974 5.974 0 01-2.133-1A3.75 3.75 0 0012 18z" />
+                  </svg>
+                </span>
+                <strong class="mr-1">Using the free version!</strong> Upgrade to pro version to remove banner
+              </div>
+              <div class="flex items-center justify-center">
+                <a class="mr-4 inline-block rounded bg-neutral-50 px-6 pt-2.5 pb-2 text-xs uppercase leading-normal text-neutral-800 shadow-[0_4px_9px_-4px_rgba(251,251,251,0.05)] transition duration-150 ease-in-out hover:bg-neutral-100 hover:shadow-[0_8px_9px_-4px_rgba(203,203,203,0.05),0_4px_18px_0_rgba(203,203,203,0.05)] focus:bg-neutral-100 focus:shadow-[0_8px_9px_-4px_rgba(203,203,203,0.05),0_4px_18px_0_rgba(203,203,203,0.05)] focus:outline-none focus:ring-0 active:bg-neutral-200 active:shadow-[0_8px_9px_-4px_rgba(203,203,203,0.05),0_4px_18px_0_rgba(203,203,203,0.05)] dark:shadow-[0_4px_9px_-4px_rgba(251,251,251,0.05)] dark:hover:shadow-[0_8px_9px_-4px_rgba(251,251,251,0.1),0_4px_18px_0_rgba(251,251,251,0.05)] dark:focus:shadow-[0_8px_9px_-4px_rgba(251,251,251,0.1),0_4px_18px_0_rgba(251,251,251,0.05)] dark:active:shadow-[0_8px_9px_-4px_rgba(251,251,251,0.1),0_4px_18px_0_rgba(251,251,251,0.05)]"
+                  href="/pricing" role="button" data-te-ripple-init data-te-ripple-color="light">Upgrade</a>
+                <a href="" class="text-white" data-te-alert-dismiss aria-label="Close">
+                  <span class="[&>svg]:h-6 [&>svg]:w-6">
+                    
+                  </span>
+                </a>
+              </div>
+            </div>
+          </section>
+          <!-- Section: Design Block -->
+        </div> {% endcomment %}
+        {% endif %}
+
+        {% block content %}{% endblock %}
+      </div>
+      <!--**********************************
+            Content body end
+        ***********************************-->
+
+      <!--**********************************
+            Footer start
+        ***********************************-->
+      <div class="footer">
+        <div class="copyright">
+          <p>
+            Copyright &copy; Designed & Developed by
+            <a href="https://themeforest.net/user/quixlab">Quixlab</a> 2018
+          </p>
+        </div>
+      </div>
+      <!--**********************************
+            Footer end
+        ***********************************-->
+    </div>
+    <!--**********************************
+        Main wrapper end
+    ***********************************-->
+
+    <!--**********************************
+        Scripts
+    ***********************************-->
+    <script src="{% static 'assets/plugins/common/common.min.js' %}"></script>
+    <script src="{% static 'assets/js/custom.min.js' %}"></script>
+    <script src="{% static 'assets/js/settings.js' %}"></script>
+    <script src="{% static 'assets/js/gleek.js' %}"></script>
+    <script src="{% static 'assets/js/styleSwitcher.js' %}"></script>
+    <script>
+      // Get the current URL path
+      var currentPath = window.location.pathname;
+      
+      // Find all <a> elements within the .nav list
+        var links = document.querySelectorAll('.metismenu a');
+        
+      // Loop through each <a> element
+      links.forEach(function(link) {
+        // Get the href attribute of the current <a> element
+        var href = link.getAttribute('href');
+    
+        // Find the <li> element containing the <a> element
+        var listItem = link.closest('a');
+          
+        // Check if the current path matches the href attribute
+        // Check if the current path starts with the href attribute (accounting for trailing slash)
+        if (currentPath.startsWith(href)) {
+          // Add the "active" class to the <li> element
+          listItem.classList.add('active');
+        }
+      });
+    </script>
+    <script>
+      // Initialization for ES Users
+      import {
+        Modal,
+        Ripple,
+        initTE,
+      } from "tw-elements";
+
+      initTE({ Modal, Ripple });
+    </script>
+    <script src="https://cdn.jsdelivr.net/npm/tw-elements/dist/js/tw-elements.umd.min.js"></script>
+  </body>
+</html>

@@ -1,0 +1,62 @@
+2023-09-23 17:47:30 [scrapy] DEBUG: Crawled (200) <GET https://www.google.com/search?q=pc%0D%0Aps5%0D%0Aapple%0D%0Aiphone%0D%0Aiphone+14%0D%0Aiphone+15%0D%0Alaptop&hl=en&gl=DK&start=0> (referer: None)
+2023-09-23 17:47:30 [scrapy] ERROR: Spider error processing <GET https://www.google.com/search?q=pc%0D%0Aps5%0D%0Aapple%0D%0Aiphone%0D%0Aiphone+14%0D%0Aiphone+15%0D%0Alaptop&hl=en&gl=DK&start=0> (referer: None)
+Traceback (most recent call last):
+  File "C:\Users\Muhammad Umer\AppData\Local\Programs\Python\Python311\Lib\site-packages\scrapy\utils\defer.py", line 257, in iter_errback
+    yield next(it)
+          ^^^^^^^^
+  File "C:\Users\Muhammad Umer\AppData\Local\Programs\Python\Python311\Lib\site-packages\scrapy\utils\python.py", line 312, in __next__
+    return next(self.data)
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\Muhammad Umer\AppData\Local\Programs\Python\Python311\Lib\site-packages\scrapy\utils\python.py", line 312, in __next__
+    return next(self.data)
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\Muhammad Umer\AppData\Local\Programs\Python\Python311\Lib\site-packages\scrapy\core\spidermw.py", line 104, in process_sync
+    for r in iterable:
+  File "C:\Users\Muhammad Umer\AppData\Local\Programs\Python\Python311\Lib\site-packages\scrapy\spidermiddlewares\offsite.py", line 28, in <genexpr>
+    return (r for r in result or () if self._filter(r, spider))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Muhammad Umer\AppData\Local\Programs\Python\Python311\Lib\site-packages\scrapy\core\spidermw.py", line 104, in process_sync
+    for r in iterable:
+  File "C:\Users\Muhammad Umer\AppData\Local\Programs\Python\Python311\Lib\site-packages\scrapy\spidermiddlewares\referer.py", line 353, in <genexpr>
+    return (self._set_referer(r, response) for r in result or ())
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Muhammad Umer\AppData\Local\Programs\Python\Python311\Lib\site-packages\scrapy\core\spidermw.py", line 104, in process_sync
+    for r in iterable:
+  File "C:\Users\Muhammad Umer\AppData\Local\Programs\Python\Python311\Lib\site-packages\scrapy\spidermiddlewares\urllength.py", line 27, in <genexpr>
+    return (r for r in result or () if self._filter(r, spider))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Muhammad Umer\AppData\Local\Programs\Python\Python311\Lib\site-packages\scrapy\core\spidermw.py", line 104, in process_sync
+    for r in iterable:
+  File "C:\Users\Muhammad Umer\AppData\Local\Programs\Python\Python311\Lib\site-packages\scrapy\spidermiddlewares\depth.py", line 31, in <genexpr>
+    return (r for r in result or () if self._filter(r, response, spider))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Muhammad Umer\AppData\Local\Programs\Python\Python311\Lib\site-packages\scrapy\core\spidermw.py", line 104, in process_sync
+    for r in iterable:
+  File "D:\Outputs\Django Outputs\scraper\spiders\plaspider.py", line 65, in parse
+    with open(f'html/{self.user}/{response.meta["keyword"]}.html', "w", encoding="utf-8") as f:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+OSError: [Errno 22] Invalid argument: 'html/admin/pc\r\nps5\r\napple\r\niphone\r\niphone 14\r\niphone 15\r\nlaptop.html'
+2023-09-23 17:47:30 [scrapy] INFO: Closing spider (finished)
+2023-09-23 17:47:30 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 489,
+ 'downloader/request_count': 1,
+ 'downloader/request_method_count/GET': 1,
+ 'downloader/response_bytes': 162302,
+ 'downloader/response_count': 1,
+ 'downloader/response_status_count/200': 1,
+ 'elapsed_time_seconds': 4.616589,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2023, 9, 23, 12, 47, 30, 584410),
+ 'httpcompression/response_bytes': 588963,
+ 'httpcompression/response_count': 1,
+ 'log_count/DEBUG': 1,
+ 'log_count/ERROR': 1,
+ 'log_count/INFO': 8,
+ 'response_received_count': 1,
+ 'scheduler/dequeued': 1,
+ 'scheduler/dequeued/memory': 1,
+ 'scheduler/enqueued': 1,
+ 'scheduler/enqueued/memory': 1,
+ 'spider_exceptions/OSError': 1,
+ 'start_time': datetime.datetime(2023, 9, 23, 12, 47, 25, 967821)}
+2023-09-23 17:47:30 [scrapy] INFO: Spider closed (finished)

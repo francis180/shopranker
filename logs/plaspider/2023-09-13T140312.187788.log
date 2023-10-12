@@ -1,0 +1,513 @@
+2023-09-13 14:03:14 [scrapy] DEBUG: Redirecting (302) to <GET https://www.google.com/webhp?hl=en&gl=DK&start=0> from <GET https://www.google.com/search?q=&hl=en&gl=DK&start=0>
+2023-09-13 14:03:15 [scrapy] DEBUG: Crawled (200) <GET https://www.google.com/search?q=asus&hl=en&gl=DK&start=0> (referer: None)
+2023-09-13 14:03:16 [scrapy] DEBUG: Crawled (200) <GET https://www.google.com/search?q=ps5&hl=en&gl=DK&start=0> (referer: None)
+2023-09-13 14:03:16 [scrapy] DEBUG: Crawled (200) <GET https://www.google.com/webhp?hl=en&gl=DK&start=0> (referer: None)
+2023-09-13 14:03:16 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=ps5&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'ps5',
+ 'position': 1,
+ 'price': '3.879,00\xa0kr.',
+ 'product_url': 'https://www.elgiganten.dk/product/gaming/spillekonsol-tilbehor/playstation/playstation-spillekonsol/playstation-5-digital-edition-2022/533977',
+ 'title': 'PlayStation 5 Digital Edition (2022)',
+ 'url': 'elgiganten.dk',
+ 'user_id': 'admin'}
+2023-09-13 14:03:16 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=ps5&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'ps5',
+ 'position': 2,
+ 'price': '2.999,00\xa0kr.',
+ 'product_url': 'https://www.telia.dk/shop/playstation/sony-playstation-5-23-bundle-med-abonnement/#/white/0-gb',
+ 'title': 'Sony PlayStation 5 med abonnement. Min.pris: 4.802,00kr. 6 mdr. '
+          'binding',
+ 'url': 'telia.dk',
+ 'user_id': 'admin'}
+2023-09-13 14:03:16 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=ps5&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'ps5',
+ 'position': 3,
+ 'price': '3.599,00\xa0kr.',
+ 'product_url': 'https://www.callme.dk/shop/playstation/sony-playstation-5-23-bundle-med-abonnement/#/white/0-gb',
+ 'title': 'Sony PlayStation 5 med abonnement. Mindstepris: 4332.00 kr. (med '
+          'abonnement)',
+ 'url': 'callme.dk',
+ 'user_id': 'admin'}
+2023-09-13 14:03:16 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=ps5&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'ps5',
+ 'position': 4,
+ 'price': '3.690,00\xa0kr.',
+ 'product_url': 'https://www.dustinhome.dk/product/5011188679/playstation-5-digital-edition?ssel=true',
+ 'title': 'Sony Playstation 5 Digital Edition 825gb',
+ 'url': 'dustinhome.dk',
+ 'user_id': 'admin'}
+2023-09-13 14:03:16 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=ps5&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'ps5',
+ 'position': 5,
+ 'price': '4.991,00\xa0kr.',
+ 'product_url': 'https://www.elgiganten.dk/product/gaming/spillekonsol-tilbehor/playstation/playstation-spillekonsol/playstation-5-2x-dualsense-controller-pakke/581993',
+ 'title': 'PlayStation 5 + 2x DualSense controller-pakke',
+ 'url': 'elgiganten.dk',
+ 'user_id': 'admin'}
+2023-09-13 14:03:16 [scrapy] DEBUG: Crawled (200) <GET https://www.google.com/search?q=headphone&hl=en&gl=DK&start=0> (referer: None)
+2023-09-13 14:03:17 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=ps5&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'ps5',
+ 'position': 6,
+ 'price': '4.199,00\xa0kr.',
+ 'product_url': 'https://www.power.dk/gaming-og-underholdning/playstation/playstation-konsoller/playstation-5/p-1840111/',
+ 'title': 'PLAYSTATION 5',
+ 'url': 'power.dk',
+ 'user_id': 'admin'}
+2023-09-13 14:03:17 [scrapy] DEBUG: Crawled (200) <GET https://www.google.com/search?q=controller&hl=en&gl=DK&start=0> (referer: None)
+2023-09-13 14:03:17 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=ps5&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'ps5',
+ 'position': 7,
+ 'price': '4.199,00\xa0kr.',
+ 'product_url': 'https://www.elgiganten.dk/product/gaming/spillekonsol-tilbehor/playstation/playstation-spillekonsol/playstation-5-cod-mw2-pakke/619645',
+ 'title': 'PlayStation 5 + COD MW2-pakke',
+ 'url': 'elgiganten.dk',
+ 'user_id': 'admin'}
+2023-09-13 14:03:17 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=ps5&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'ps5',
+ 'position': 8,
+ 'price': '5.190,00\xa0kr.',
+ 'product_url': 'https://www.proshop.dk/Spillekonsol/Sony-PlayStation-5-Marvels-Spider-Man-2-Limited-Edition-Bundle/3189056?utm_source=google&utm_medium=cpc&utm_campaign=searchengine',
+ 'title': "Sony PlayStation 5 Marvel's Spider-Man 2 Limited Edition Bundle",
+ 'url': 'proshop.dk',
+ 'user_id': 'admin'}
+2023-09-13 14:03:17 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=ps5&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'ps5',
+ 'position': 9,
+ 'price': '3.879,00\xa0kr.',
+ 'product_url': 'https://www.power.dk/gaming-og-underholdning/playstation/playstation-konsoller/playstation-5-digital-edition/p-1840112/',
+ 'title': 'PLAYSTATION 5 DIGITAL EDITION',
+ 'url': 'power.dk',
+ 'user_id': 'admin'}
+2023-09-13 14:03:17 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=ps5&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'ps5',
+ 'position': 10,
+ 'price': '3.835,00\xa0kr.',
+ 'product_url': 'https://www.elgiganten.dk/product/outlet/playstation-5-2022/555354',
+ 'title': 'PlayStation 5 (2022)',
+ 'url': 'elgiganten.dk',
+ 'user_id': 'admin'}
+2023-09-13 14:03:17 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=ps5&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'ps5',
+ 'position': 11,
+ 'price': '5.190,00\xa0kr.',
+ 'product_url': 'https://www.power.dk/gaming-og-underholdning/playstation/playstation-konsoller/playstation-5-konsol-marvels-spider-man-2-limited-edition-bundle/p-2525860/',
+ 'title': "PLAYSTATION 5 KONSOL - MARVEL'S SPIDER-MAN 2 LIMITED EDITION BUNDLE",
+ 'url': 'power.dk',
+ 'user_id': 'admin'}
+2023-09-13 14:03:17 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=ps5&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'ps5',
+ 'position': 12,
+ 'price': '4.359,00\xa0kr.',
+ 'product_url': 'https://www.komplett.dk/product/1111557/gaming/playstation/playstation-5-disc-edition-ps5?channable=0095b76964003131313135353727',
+ 'title': 'PlayStation 5 Disc Edition / PS5',
+ 'url': 'komplett.dk',
+ 'user_id': 'admin'}
+2023-09-13 14:03:17 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=ps5&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'ps5',
+ 'position': 13,
+ 'price': '4.348,00\xa0kr.',
+ 'product_url': 'https://www.proshop.dk/Spillekonsol/Sony-PlayStation-5-Nordic/2831713?utm_source=google&utm_medium=cpc&utm_campaign=searchengine',
+ 'title': 'Sony PlayStation 5 (Nordic)',
+ 'url': 'proshop.dk',
+ 'user_id': 'admin'}
+2023-09-13 14:03:18 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=ps5&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'ps5',
+ 'position': 14,
+ 'price': '3.739,00\xa0kr.',
+ 'product_url': 'https://elsalg.dk/webshop/sony-playstation-5-digital-edition',
+ 'title': 'Sony PlayStation 5 - Digital Edition',
+ 'url': 'elsalg.dk',
+ 'user_id': 'admin'}
+2023-09-13 14:03:18 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=ps5&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'ps5',
+ 'position': 15,
+ 'price': '4.799,00\xa0kr.',
+ 'product_url': 'https://www.bilka.dk/produkter/ps5-standard-konsol-inkl-2-x-hvid-dualsense/200183008/',
+ 'title': 'PS5 Standard Konsol inkl. 2 x hvid Dualsense',
+ 'url': 'bilka.dk',
+ 'user_id': 'admin'}
+2023-09-13 14:03:18 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=ps5&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'ps5',
+ 'position': 16,
+ 'price': '4.661,00\xa0kr.',
+ 'product_url': 'https://www.elgiganten.dk/product/outlet/playstation-5-ea-sports-fifa-23-pakke/566131',
+ 'title': 'PlayStation 5 + EA SPORTS FIFA 23 pakke',
+ 'url': 'elgiganten.dk',
+ 'user_id': 'admin'}
+2023-09-13 14:03:18 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=ps5&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'ps5',
+ 'position': 17,
+ 'price': '3.899,00\xa0kr.',
+ 'product_url': 'https://www.komplett.dk/product/1161553/gaming/playstation/playstation-5-digital-edition-ps5?channable=0095b76964003131363135353374',
+ 'title': 'PlayStation 5 Digital Edition / PS5',
+ 'url': 'komplett.dk',
+ 'user_id': 'admin'}
+2023-09-13 14:03:18 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=ps5&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'ps5',
+ 'position': 18,
+ 'price': '5.199,00\xa0kr.',
+ 'product_url': 'https://www.elgiganten.dk/product/gaming/spillekonsol-tilbehor/playstation/playstation-spillekonsol/playstation-5-marvel-s-spider-man-2-limited-edition-pakke/645207',
+ 'title': 'PlayStation 5 + Marvel s Spider-Man 2 Limited Edition pakke',
+ 'url': 'elgiganten.dk',
+ 'user_id': 'admin'}
+2023-09-13 14:03:18 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=ps5&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'ps5',
+ 'position': 19,
+ 'price': '4.359,00\xa0kr.',
+ 'product_url': 'https://www.bilka.dk/produkter/ps5-standard-konsol/200169033/',
+ 'title': 'PS5 Standard Konsol',
+ 'url': 'bilka.dk',
+ 'user_id': 'admin'}
+2023-09-13 14:03:18 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=ps5&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'ps5',
+ 'position': 20,
+ 'price': '3.999,00\xa0kr.',
+ 'product_url': 'https://www.fleggaard.dk/pi/Sony-PlayStation-5-Disc-Edition-Call-of-Duty-MW2-EU-PS5_13823626_40528.aspx',
+ 'title': '1 stk. Sony PlayStation 5 Disc Edition + Call of Duty MW2 (EU) (PS5',
+ 'url': 'fleggaard.dk',
+ 'user_id': 'admin'}
+2023-09-13 14:03:19 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=ps5&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'ps5',
+ 'position': 21,
+ 'price': '4.899,00\xa0kr.',
+ 'product_url': 'https://www.boligcenter.dk/elektronik/gaming/konsoller/playstation-5-sony-hogwarts-legacy-825-gb-ssd',
+ 'title': 'PlayStation 5 Sony Hogwarts Legacy 825 GB SSD',
+ 'url': 'boligcenter.dk',
+ 'user_id': 'admin'}
+2023-09-13 14:03:19 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=ps5&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'ps5',
+ 'position': 22,
+ 'price': '4.799,00\xa0kr.',
+ 'product_url': 'https://www.foetex.dk/produkter/ps5-standard-konsol-inkl-2-x-hvid-dualsense/200183008/',
+ 'title': '"PS5 Standard Konsol inkl. 2 x hvid Dualsense"',
+ 'url': 'foetex.dk',
+ 'user_id': 'admin'}
+2023-09-13 14:03:19 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=ps5&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'ps5',
+ 'position': 23,
+ 'price': None,
+ 'product_url': None,
+ 'title': None,
+ 'url': '',
+ 'user_id': 'admin'}
+2023-09-13 14:03:19 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=headphone&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'headphone',
+ 'position': 1,
+ 'price': '599,00\xa0kr.',
+ 'product_url': 'https://sackit.dk/products/touch-350',
+ 'title': 'SACKit - Danmark - Touch 350 - Høretelefoner/ Headphones - Active '
+          'Noise Cancelling - ANC - Trådløs & Bluetooth - Golden',
+ 'url': 'sackit.dk',
+ 'user_id': 'admin'}
+2023-09-13 14:03:19 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=headphone&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'headphone',
+ 'position': 2,
+ 'price': '958,75\xa0kr.',
+ 'product_url': 'https://www.lomax.dk/elektronik/telefoner-og-gps/headsets/jabra-evolve-40-uc-stereo-headset-3094920/?pla=1',
+ 'title': 'Jabra Evolve 40 UC Stereo headset',
+ 'url': 'lomax.dk',
+ 'user_id': 'admin'}
+2023-09-13 14:03:19 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=headphone&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'headphone',
+ 'position': 3,
+ 'price': '49,00\xa0kr.',
+ 'product_url': 'https://www.av-cables.dk/multimedie-headset/sandberg-basicline-headset-sort.html',
+ 'title': 'Sandberg Basic Headset - Sort',
+ 'url': 'av-cables.dk',
+ 'user_id': 'admin'}
+2023-09-13 14:03:19 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=headphone&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'headphone',
+ 'position': 4,
+ 'price': '249,00\xa0kr.',
+ 'product_url': 'https://www.power.dk/tv-og-lyd/hovedtelefoner/traadloese-hovedtelefoner/philips-h4205-bluetooth-hovedtelefoner-sort/p-1108370/',
+ 'title': 'PHILIPS H4205 BLUETOOTH HOVEDTELEFONER SORT',
+ 'url': 'power.dk',
+ 'user_id': 'admin'}
+2023-09-13 14:03:19 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=headphone&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'headphone',
+ 'position': 5,
+ 'price': '2.190,00\xa0kr.',
+ 'product_url': 'https://www.hifiklubben.dk/sennheiser-momentum-4-wireless-hoeretelefoner/senmomentum4bk/?dfw_tracker=102491-SENMOMENTUM4BK',
+ 'title': 'Sennheiser MOMENTUM 4 Wireless Trådløst headset',
+ 'url': 'hifiklubben.dk',
+ 'user_id': 'admin'}
+2023-09-13 14:03:20 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=headphone&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'headphone',
+ 'position': 6,
+ 'price': '599,00\xa0kr.',
+ 'product_url': 'https://sackit.dk/products/touch-350',
+ 'title': 'SACKit - Danmark - Touch 350 - Høretelefoner/ Headphones - Active '
+          'Noise Cancelling - ANC - Trådløs & Bluetooth - Silver',
+ 'url': 'sackit.dk',
+ 'user_id': 'admin'}
+2023-09-13 14:03:20 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=headphone&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'headphone',
+ 'position': 7,
+ 'price': '52.400,00\xa0kr.',
+ 'product_url': 'https://www.thomann.de/dk/hifiman_susvara.htm?glp=1',
+ 'title': 'HIFIMAN SUSVARA',
+ 'url': 'thomann.de',
+ 'user_id': 'admin'}
+2023-09-13 14:03:20 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=headphone&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'headphone',
+ 'position': 8,
+ 'price': '799,00\xa0kr.',
+ 'product_url': 'https://sports-headset.dk/fingertime-noise-cancelling',
+ 'title': 'Fingertime - Noise Cancelling over ear trådløse høretelefoner',
+ 'url': 'sports-headset.dk',
+ 'user_id': 'admin'}
+2023-09-13 14:03:20 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=headphone&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'headphone',
+ 'position': 9,
+ 'price': '795,00\xa0kr.',
+ 'product_url': 'https://soundliving.dk/products/soundliving-soul?variant=44159202230581',
+ 'title': 'Soundliving Soul - Gold',
+ 'url': 'soundliving.dk',
+ 'user_id': 'admin'}
+2023-09-13 14:03:20 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=headphone&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'headphone',
+ 'position': 10,
+ 'price': '450,00\xa0kr.',
+ 'product_url': 'https://www.power.dk/tv-og-lyd/hovedtelefoner/traadloese-hovedtelefoner/sennheiser-hd-350-bluetooth-hovedtelefoner-sort/p-1057164/',
+ 'title': 'SENNHEISER HD 350 BLUETOOTH-HOVEDTELEFONER SORT',
+ 'url': 'power.dk',
+ 'user_id': 'admin'}
+2023-09-13 14:03:20 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=headphone&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'headphone',
+ 'position': 11,
+ 'price': '2.099,00\xa0kr.',
+ 'product_url': 'https://www.elgiganten.dk/product/tv-lyd-smart-home/horetelefoner-tilbehor/horetelefoner/sony-tradlose-around-ear-horetelefoner-wh-1000xm4-sort/200693',
+ 'title': 'Sony trådløse around-ear høretelefoner WH-1000XM4 (sort)',
+ 'url': 'elgiganten.dk',
+ 'user_id': 'admin'}
+2023-09-13 14:03:20 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=headphone&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'headphone',
+ 'position': 12,
+ 'price': '129,00\xa0kr.',
+ 'product_url': 'https://www.av-cables.dk/on-ear-hoeretelefoner/jvc-has31-on-ear-headset-sort.html',
+ 'title': 'JVC HAS31 On-Ear Kablet Headset - Sort',
+ 'url': 'av-cables.dk',
+ 'user_id': 'admin'}
+2023-09-13 14:03:20 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=headphone&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'headphone',
+ 'position': 13,
+ 'price': '1.299,00\xa0kr.',
+ 'product_url': 'https://www.hifiklubben.dk/argon-audio-quiet-storm-hoeretelefoner/arghpquietstormbk/?dfw_tracker=102491-ARGHPQUIETSTORMBK',
+ 'title': 'Argon Audio QUIET STORM Trådløst headset',
+ 'url': 'hifiklubben.dk',
+ 'user_id': 'admin'}
+2023-09-13 14:03:21 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=headphone&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'headphone',
+ 'position': 14,
+ 'price': '157,00\xa0kr.',
+ 'product_url': 'https://www.dustinhome.dk/product/5011104657/tune-500?ssel=true',
+ 'title': 'Jbl Tune 500 Hovedtelefoner 3,5 Mm Jackstik Stereo Sort',
+ 'url': 'dustinhome.dk',
+ 'user_id': 'admin'}
+2023-09-13 14:03:21 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=headphone&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'headphone',
+ 'position': 15,
+ 'price': '549,00\xa0kr.',
+ 'product_url': 'https://www.boozt.com/dk/da/sackit/touchit-on-ear-headphones-silver_28917634/222920734?localLanguage=1',
+ 'title': 'SACKIT Hovedtelefoner Touchit Onear Headphones Grå - One Size - '
+          'Unisex',
+ 'url': 'boozt.com',
+ 'user_id': 'admin'}
+2023-09-13 14:03:21 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=headphone&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'headphone',
+ 'position': 16,
+ 'price': '599,00\xa0kr.',
+ 'product_url': 'https://www.power.dk/tv-og-lyd/hovedtelefoner/traadloese-hovedtelefoner/jbl-tune-720bt-bluetooth-hovedtelefoner-sort/p-2001862/',
+ 'title': 'JBL TUNE 720BT BLUETOOTH HOVEDTELEFONER SORT',
+ 'url': 'power.dk',
+ 'user_id': 'admin'}
+2023-09-13 14:03:21 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=headphone&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'headphone',
+ 'position': 17,
+ 'price': '69,00\xa0kr.',
+ 'product_url': 'https://www.av-cables.dk/multimedie-headset/standard-multimedie-headset-3.html',
+ 'title': 'Standard Multimedie Headset',
+ 'url': 'av-cables.dk',
+ 'user_id': 'admin'}
+2023-09-13 14:03:21 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=headphone&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'headphone',
+ 'position': 18,
+ 'price': '599,00\xa0kr.',
+ 'product_url': 'https://www.power.dk/tv-og-lyd/hovedtelefoner/traadloese-hovedtelefoner/sony-wh-ch520-bluetooth-hovedtelefoner-beige/p-1964200/',
+ 'title': 'SONY WH-CH520 BLUETOOTH HOVEDTELEFONER BEIGE',
+ 'url': 'power.dk',
+ 'user_id': 'admin'}
+2023-09-13 14:03:21 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=headphone&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'headphone',
+ 'position': 19,
+ 'price': '399,00\xa0kr.',
+ 'product_url': 'https://dk.jbl.com/over-ear-hovedtelefoner-2/JBLT520BTWHTEU.html?utm_campaign=free_listings&utm_source=google&utm_medium=organic',
+ 'title': 'JBL Tune 520BT Hvid | On-Ear Headphones',
+ 'url': 'dk.jbl.com',
+ 'user_id': 'admin'}
+2023-09-13 14:03:21 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=headphone&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'headphone',
+ 'position': 20,
+ 'price': '399,95\xa0kr.',
+ 'product_url': 'https://www.imerco.dk/soundliving-soul-traadloese-hoeretelefoner-36-timers-spilletid-bluetooth-5-0-guld?id=100409823&dfw_tracker=61960-100409823',
+ 'title': 'Soundliving Soul Trådløse Høretelefoner - 36 timers spilletid - '
+          'Bluetooth 5.0 - Guld - hos Imerco (Guldfarvet Plastik)',
+ 'url': 'imerco.dk',
+ 'user_id': 'admin'}
+2023-09-13 14:03:21 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=headphone&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'headphone',
+ 'position': 21,
+ 'price': '1.790,00\xa0kr.',
+ 'product_url': 'https://www.komplett.dk/product/1220043/tv-hifi/hoeretelefoner-tilbehoer/hoeretelefoner/bose-quiet-comfort-se-traadloese-hoeretelefoner-over-ear-sort?channable=0095b7696400313232303034336a',
+ 'title': 'Bose Quiet Comfort SE Trådløse høretelefoner, Over-Ear (sort)',
+ 'url': 'komplett.dk',
+ 'user_id': 'admin'}
+2023-09-13 14:03:21 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=headphone&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'headphone',
+ 'position': 22,
+ 'price': '29,00\xa0kr.',
+ 'product_url': 'https://huma.dk/sandberg-basic-horetelefoner-sort',
+ 'title': 'Sandberg basic høretelefoner, sort - SDG825-26 - Høretelefoner',
+ 'url': 'huma.dk',
+ 'user_id': 'admin'}
+2023-09-13 14:03:21 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=headphone&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'headphone',
+ 'position': 23,
+ 'price': '2.399,00\xa0kr.',
+ 'product_url': 'https://www.hifiklubben.dk/bowers--wilkins-px7-s2-traadloest-headset/bwpx7s2bl/?dfw_tracker=102491-BWPX7S2BL',
+ 'title': 'Bowers & Wilkins PX7 S2 Trådløst headset',
+ 'url': 'hifiklubben.dk',
+ 'user_id': 'admin'}
+2023-09-13 14:03:22 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=headphone&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'headphone',
+ 'position': 24,
+ 'price': '59,00\xa0kr.',
+ 'product_url': 'https://geekd.dk/products/havit-gamenote-hv-h2232d-e-sports-kabling-headset-sort',
+ 'title': 'Havit GAMENOTE HV-H2232D E-SPORTS Kabling Headset Sort - GEEKD.dk',
+ 'url': 'geekd.dk',
+ 'user_id': 'admin'}
+2023-09-13 14:03:22 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=headphone&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'headphone',
+ 'position': 25,
+ 'price': '199,00\xa0kr.',
+ 'product_url': 'https://www.power.dk/tv-og-lyd/hovedtelefoner/hovedtelefoner-med-ledning/philips-tah4105bl00-on-ear-hovedtelefoner-blaa/p-2013170/',
+ 'title': 'PHILIPS TAH4105BL/00 ON-EAR HOVEDTELEFONER BLÅ',
+ 'url': 'power.dk',
+ 'user_id': 'admin'}
+2023-09-13 14:03:22 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=headphone&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'headphone',
+ 'position': 26,
+ 'price': '450,00\xa0kr.',
+ 'product_url': 'https://www.power.dk/tv-og-lyd/hovedtelefoner/traadloese-hovedtelefoner/sennheiser-hd-350-bluetooth-hovedtelefoner-hvid/p-1057165/',
+ 'title': 'SENNHEISER HD 350 BLUETOOTH-HOVEDTELEFONER HVID',
+ 'url': 'power.dk',
+ 'user_id': 'admin'}
+2023-09-13 14:03:22 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=headphone&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'headphone',
+ 'position': 27,
+ 'price': '185,00\xa0kr.',
+ 'product_url': 'https://www.lomax.dk/elektronik/lyd-og-billede/hovedtelefoner/apple-earpods-hoeretelefoner-mjack-stik-70105390/?pla=1',
+ 'title': 'Apple EarPods høretelefoner m/jack-stik',
+ 'url': 'lomax.dk',
+ 'user_id': 'admin'}
+2023-09-13 14:03:22 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=headphone&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'headphone',
+ 'position': 28,
+ 'price': '1.055,00\xa0kr.',
+ 'product_url': 'https://www.thomann.de/dk/beyerdynamic_dt770_pro80_ohm.htm?glp=1',
+ 'title': 'beyerdynamic DT-770 Pro 80 Ohm',
+ 'url': 'thomann.de',
+ 'user_id': 'admin'}
+2023-09-13 14:03:22 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=headphone&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'headphone',
+ 'position': 29,
+ 'price': '599,00\xa0kr.',
+ 'product_url': 'https://www.bilka.dk/produkter/philips-on-ear-hovedtelefoner-tah8506bk-bt-anc-sort/200069634/',
+ 'title': 'Philips On-Ear hovedtelefoner TAH8506BK BT ANC - sort',
+ 'url': 'bilka.dk',
+ 'user_id': 'admin'}
+2023-09-13 14:03:22 [scrapy] DEBUG: Scraped from <200 https://www.google.com/search?q=headphone&hl=en&gl=DK&start=0>
+{'country': 'DK',
+ 'keyword': 'headphone',
+ 'position': 30,
+ 'price': None,
+ 'product_url': None,
+ 'title': None,
+ 'url': '',
+ 'user_id': 'admin'}
+2023-09-13 14:03:22 [scrapy] INFO: Closing spider (finished)
+2023-09-13 14:03:22 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 2786,
+ 'downloader/request_count': 6,
+ 'downloader/request_method_count/GET': 6,
+ 'downloader/response_bytes': 1067949,
+ 'downloader/response_count': 6,
+ 'downloader/response_status_count/200': 5,
+ 'downloader/response_status_count/302': 1,
+ 'elapsed_time_seconds': 10.54343,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2023, 9, 13, 9, 3, 22, 742634),
+ 'httpcompression/response_bytes': 3868279,
+ 'httpcompression/response_count': 5,
+ 'item_scraped_count': 53,
+ 'log_count/DEBUG': 59,
+ 'log_count/INFO': 8,
+ 'response_received_count': 5,
+ 'scheduler/dequeued': 6,
+ 'scheduler/dequeued/memory': 6,
+ 'scheduler/enqueued': 6,
+ 'scheduler/enqueued/memory': 6,
+ 'start_time': datetime.datetime(2023, 9, 13, 9, 3, 12, 199204)}
+2023-09-13 14:03:22 [scrapy] INFO: Spider closed (finished)

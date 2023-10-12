@@ -1,0 +1,23 @@
+2023-09-22 22:10:30 [scrapy] DEBUG: Crawled (200) <GET https://www.google.com/search?q=apple&hl=en&gl=DK&start=0> (referer: None)
+2023-09-22 22:10:30 [scrapy] INFO: Closing spider (finished)
+2023-09-22 22:10:30 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 418,
+ 'downloader/request_count': 1,
+ 'downloader/request_method_count/GET': 1,
+ 'downloader/response_bytes': 200353,
+ 'downloader/response_count': 1,
+ 'downloader/response_status_count/200': 1,
+ 'elapsed_time_seconds': 3.801697,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2023, 9, 22, 17, 10, 30, 652364),
+ 'httpcompression/response_bytes': 695066,
+ 'httpcompression/response_count': 1,
+ 'log_count/DEBUG': 1,
+ 'log_count/INFO': 8,
+ 'response_received_count': 1,
+ 'scheduler/dequeued': 1,
+ 'scheduler/dequeued/memory': 1,
+ 'scheduler/enqueued': 1,
+ 'scheduler/enqueued/memory': 1,
+ 'start_time': datetime.datetime(2023, 9, 22, 17, 10, 26, 850667)}
+2023-09-22 22:10:30 [scrapy] INFO: Spider closed (finished)
